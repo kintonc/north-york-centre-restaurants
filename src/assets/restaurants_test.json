@@ -1,0 +1,13 @@
+[{
+      "name": "wako sushi",
+      "cuisine": "sushi",
+      "address": "5213 Yonge Street",
+      "image": "wako.jpg"
+    },
+    {
+      "name": "wendys",
+      "cuisine": "fast food",
+      "address": "5095 Yonge Street",
+      "image": "wendys.jpg"
+    }
+]

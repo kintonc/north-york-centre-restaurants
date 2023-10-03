@@ -1,0 +1,3129 @@
+[
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5324 Yonge St, North York, ON M2N 5P9, Canada",
+        "name": "The Famous Owl of Minerva",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105028888368052027888\">Antonio</a>"
+            ],
+            "photo_reference": "ATJ83ziW65xtZ3CqnpyHc7IZPPr6gn9X7eiqqfwsAIXJ7CJehIjQi9kzwMhYQhPDh4HexGjLGD4tg-4CDrk5vHMGQtdKR5b3Nn_1aWKbeFN6qhP6Im4bpHoTo4lZG6xeSWBBeTS820396-0bH4OURXegRITJWwCishfdFCbvKWF__IpkQBCY",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJmWDGfW0tK4gRwhzl1oXnUNE",
+        "price_level": 1,
+        "rating": 3.9,
+        "user_ratings_total": 1857
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "3700 Midland Ave, Scarborough, ON M1V 0B4, Canada",
+        "name": "Hey Noodles (Scarborough)",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116019835103341565317\">William Leung</a>"
+            ],
+            "photo_reference": "ATJ83zjxfJsrT6uNSJQut39QH-mP-1bwBqQbkm6BLXTYUbqwxBWYxucZRxvwXcCF9iknE_Yrvl16exlrmFzT1oW0bsRecOArDHD0mPhMqeoKFh5VwNSiIJuqj4DyLGTDzAVX4FXptK1Zjd06VU7wudJgwlfZmJfFlVSXiHnxX1xeMPU7KCJF",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ5dS1yv3T1IkRZq9ZrdrZoCc",
+        "rating": 4.4,
+        "user_ratings_total": 2063
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5460 Hwy 7, Markham, ON L3P 1B7, Canada",
+        "name": "Hey Noodles \u563f\u5c0f\u9762",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3840,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100354216151031367017\">xing li</a>"
+            ],
+            "photo_reference": "ATJ83zjfAMjWnu-KuY_tRdLrqk8XBFRYFBAQpFTCujEd8gmepb1hoPPk2ibs-m2C0CslbeKIs3ySHi4ZBDqhdOlHTSjmuRx029LpzSYgQXkiAXB1Y47nTvV9oupucEJXMxF0o04MxN6KOw3pza-wdgZFukBbSYxq36zsT__sdXwSDjxp6JDb",
+            "width": 5760
+          }
+        ],
+        "place_id": "ChIJ7UJdDq3X1IkRdOpvsHszBmE",
+        "price_level": 2,
+        "rating": 4.4,
+        "user_ratings_total": 655
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5322 Yonge St, North York, ON M2N 5P9, Canada",
+        "name": "Sugar Marmalade (North York) \u7cd6\u8bb0\u751c\u54c1",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103276888344846906147\">Raghavi Arya</a>"
+            ],
+            "photo_reference": "ATJ83zipdVEbL48lSqctosO333bA_-NSqhxrVNdvx0_RJUXQdQ-v25VK668UsrZyLf0KA3CuqqS7E-ftBtUlDAOmn2pGD9YQOQMtA-kZDTpHBoQOFm-4tQTUIUmWegTNo5hQrABWJE8vlen1kFFK-WKQbQ-Bf0u2Zz_dFg7_sGGosWkRhf_D",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJO7QEfm0tK4gRGNnDmXDNWUY",
+        "price_level": 1,
+        "rating": 3.8,
+        "user_ratings_total": 518
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5321 Yonge St, North York, ON M2N 5R4, Canada",
+        "name": "Mr. Fish Chinese Restaurant (North York) \u6e14\u5c0f\u4e8c \u9178\u83dc\u9c7c",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102769029646467893748\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zhO5XDFcxtkoyn-xI60IrCrPH9U7FRCozoTTthhQYZBDkDfZZidSe5xt9k4yXa9dQl9uXk5uHjO0EXzwFyf1IaEjJWPr6QyPdR5L4qBtvbZDpeRTQ0EXR2mXhvFFDkKlEYhLEuLJkJF62ATlEuIAS1-6o6ztLw-MkcgFVyxVw1fnoOR",
+            "width": 6000
+          }
+        ],
+        "place_id": "ChIJwRKLrPUtK4gRsdqsRpW6zm4",
+        "rating": 4.2,
+        "user_ratings_total": 181
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5317 Yonge St, North York, ON M2N 5R4, Canada",
+        "name": "Upper East Food Club",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113036725207736941957\">Chuan Chee</a>"
+            ],
+            "photo_reference": "ATJ83zjUC7jDWtsidWJI1dOBWRByzI2MpjLLFTtc_QHRBIuvLLqPL6dRK8xMMDof4LABjfYJEmzRSfPo-TwwDwE5Uhd2quHhTXcmTtAHgrr5OJKlQjdHhbueT-UK9-iGm0M8O5bPjm1UX6_M26bsaDWHkS4rRUBNk9rU6av3LIqNnHKxoBqR",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJVWX4fJItK4gRkdgABB5HDac",
+        "rating": 4.3,
+        "user_ratings_total": 30
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5315 Yonge St, North York, ON M2N 5R4, Canada",
+        "name": "Meet Fresh (North York)",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2731,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117016290153802476745\">Meet Fresh</a>"
+            ],
+            "photo_reference": "ATJ83zisGTcXJnd9DPFmV7FJVkprQi-cQ9gPcKd33kz4Y7OInrvoSFpTXStF4LRuW7_UUC9ng1xWp1a9qnKnGNdHiDvBMsH2YcPYVO42SVLeK4ZuDhADXTVsJmt8NpiG2yn9Gt1kBHj5jRyWC4QMGaktO76U7p7Zp18GNRPiF6UjeuWAGZ3B",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJ9SY0em0tK4gRUTxk8m0Ttwg",
+        "rating": 3.9,
+        "user_ratings_total": 764
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "2655 Yonge St, Toronto, ON M4P 2J6, Canada",
+        "name": "The Captain's Boil (Yonge & Eglinton)",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110548902608243115147\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zg2vBRf8CsIyaRsbxUB_ZZKHtiILQW_6S7q6vxXIJznOUqFq0kP0eN9izmXiHYvcCliXZAmgTKC34IgmWJQkmoRI5wv6Qxa8k76rZaaKupKUPkJkNoemqVHIANfD97hQTlPuLLKf3Q_yPagjPAbw_NxKJvqoDfrrHdarge1e3BqP1AA",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJgXNoXyAzK4gRJNPWL1TX0nY",
+        "price_level": 2,
+        "rating": 4.2,
+        "user_ratings_total": 495
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5307 Yonge St, North York, ON M2N 5R4, Canada",
+        "name": "St. Louis Bar & Grill",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3173,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118225793320723411837\">Virtuo</a>"
+            ],
+            "photo_reference": "ATJ83zge35k6YXr1alvqjTX33KyI3eJMwo0CcxGU1Jbr-BRcMUMtIc-SnKwmR9QUddBZuP9iVbmTjWqgnzc6TP8Ujj6avuV33u6ZLC0kpqnSZKa_UKeyO8M0u4-YAvKtdLJOxGTHnPl5yNo8skd_xmReskuskEDeyIr9e48g9sclVtHX8n0W",
+            "width": 4091
+          }
+        ],
+        "place_id": "ChIJo2SxeG0tK4gRIrdcHaDU8lE",
+        "price_level": 2,
+        "rating": 4.1,
+        "user_ratings_total": 1700
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "formatted_address": "5291 Yonge St, North York, ON M2N 5R3, Canada",
+        "name": "Cheese Garden Japanese Cheesecake (North York)",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106786960808216965218\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zhM22myGIhqTTccmReeVI3jEXiJ_70fFszrKD02YkM0WluFJaC7IJkjTytFBAPyoEMX6A9LEquz-Owzn9_cJvqN86EdlU3rzHw3vu1JMHJGxjJ-SUtL11MD3D4SKYtU51DPe4hLo8brZ5wrn5OOUyuNipWfMAGIKdaTlAHXfkZuCuLG",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJqV_fgm0tK4gRuXKfkfUQYQ0",
+        "rating": 4.5,
+        "user_ratings_total": 736
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5213 Yonge St, Toronto, ON M2N 5P7, Canada",
+        "name": "Wako sushi Toronto",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115634239500448767510\">Ammo</a>"
+            ],
+            "photo_reference": "ATJ83zimb-Hqgg3EUWRGoGHSWDo_59vwL0Rjuv9_dEkYcx9tfCnL1jRlA-L74HshFFepqKCgD4BTGF1SitOCswGSFfLwDS529Fnc0gXnB-oUn8B3Gm54vdqla6ZThQtptz3C0xTKXGzrYn34g3idOo77YBctOaA0-H4FMAxyAaP8QkRLec5S",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ9UVi5G0tK4gR7vuF2sEa1ac",
+        "price_level": 2,
+        "rating": 4.4,
+        "user_ratings_total": 565
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5197 Yonge St, North York, ON M2N 5P7, Canada",
+        "name": "Pho 88 Restaurant",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1667,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108896131782146282270\">Bao Dao</a>"
+            ],
+            "photo_reference": "ATJ83zjK1v_q97_3NDCzm59mMHGHOsZrG8NseR-j4CYx4Or008cCDuUSOmeI6g4JuxD-wsSO9gCfgHWqiGuLxU0aNsNxybNvd84Ypc7voDJjH7QibGI8KBxBMOOIMC4qX-oIakFhAsJLeynhJZvbNPhQkFqwcAQP63kmPy7GCjXvEIQ-yz2E",
+            "width": 2500
+          }
+        ],
+        "place_id": "ChIJx1zkCW4tK4gRnD4ETB2dS3c",
+        "price_level": 1,
+        "rating": 3.8,
+        "user_ratings_total": 681
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "4559 Hurontario St Unit A-7A, Mississauga, ON L4Z 3X3, Canada",
+        "name": "Bashu Sichuan Cuisine",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106573502675358039836\">Stanley</a>"
+            ],
+            "photo_reference": "ATJ83zjymBsIy-WVV2JHTOFY5WZNFxxPWCKGEaxwtr1Y3Eu_BQcgKIy4TbX2nFf5O6JUN4Oa1swIKyX9YsV-RjbmlcyATDIhI1UlyjRt50ox4bbIs94DdBTGL2yfUZ6iV-GoQsxW-TC6-w7r-B6d4WQ6IEvgvl-SAd0gSDN--3JYcsZaNEXe",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJSfehrUpHK4gRyunS6HA-YWw",
+        "price_level": 2,
+        "rating": 3.8,
+        "user_ratings_total": 1040
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5165 Yonge St, Toronto, ON M2N 5P5, Canada",
+        "name": "KINTON RAMEN NORTH YORK",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109283725244909152875\">Andrew Wong</a>"
+            ],
+            "photo_reference": "ATJ83zik1HbUParleYAX8a48x3H7LcFX_D0o0h456Z-7P3Ml3quzIFt_XPpERpBrilg9Q81ovjITRD4g_Kc_bhVcEKaRBYFu9w5OBNfXIp1K7cArOAeprrUuXcSoxtP6zXHLlwHgHyD2UpCAEQX0QE8RWSs5Q-B6a-lOFALvl63z3pI59a-K",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJH4docm4tK4gRAcVwAlU382o",
+        "price_level": 2,
+        "rating": 4.3,
+        "user_ratings_total": 2276
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5171 Yonge St, North York, ON M2N 5P5, Canada",
+        "name": "Shawarma Max",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113661584788607994117\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zjxru9A5endmmekHdMTcwmRfHfIrz63yYEIME_CHZj0VyXvF5pC0LkrDUTtMkJPFqzlGwrYS4JMoGlcwf-B8prk1Q6v9MTjAlZBNjpi_k3u2yc4dxIyQYYyYfJgGXDqMf3Nm3RYrfZKz6T25aZAnZipf701FjlihMISBXderJsSPprp",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJEW4nfGUtK4gR6w2Xglglsu4",
+        "price_level": 1,
+        "rating": 3.5,
+        "user_ratings_total": 951
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "701 Don Mills Rd. Unit 608, East York, ON M3C 1R7, Canada",
+        "name": "Flower Crazy",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102706288343465439875\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zh7xPVqauS2hntMQkfva0MmOt2tPbujXIzRTP9LT-W_AstCXYw1noxoIPFOmihlHBC6_DDVefK9AKdRGIGrZWv4-Qzb3hvwlsPaz0ohPp7owdN4JLG8yxf_hE1qIJ6usiOBBVmomhNtcwQVaIpnZEiJXnXdhZLyamQpE3ON2F8IXNhj",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJE0Wl37XN1IkRFgnfY1Jn1eY",
+        "rating": 0,
+        "user_ratings_total": 0
+      },
+      {
+        "business_status": "CLOSED_PERMANENTLY",
+        "formatted_address": "5175 Yonge St, North York, ON M2N 5P5, Canada",
+        "name": "Crazy Don",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 2592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107599620932880597244\">Tom Smith</a>"
+            ],
+            "photo_reference": "ATJ83zig1aAYPVyskdK8g3jvnqakwGPUb5t28P5Iu6DuXEXAsmfqyd1H4A6EwNNiICTtpVd8WVKJWkG2OLqmGgQrns4hn6HsCMqaO3LshdeBtJrF28-PuChcTdxW0D00zRxATnG-8V8Wd1LpLD26zzdjOukOzy5kCThUm_nufbJUuSMGeq9I",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJ_YN3DW4tK4gRJQzjRoieIs8",
+        "price_level": 2,
+        "rating": 3.7,
+        "user_ratings_total": 228
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "2071 Steeles Ave W #5, Toronto, ON M3J 3N3, Canada",
+        "name": "Wild Wing",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2016,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103257590025961299366\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zjFxsH1LOx1d5y4QfUXDxovRopqziLamb4jOdZqEWMbrBveIXeVz0zn2Vn38o_-dPGITniJwNeXgvZe4q1-h003ybke8kutIIGSiKC8K9dz6UaDLl4wsF0eawKD236WLIzbk7Op7lLEYDlnpIhmJqKth7sSsOf9ZoW_fu9Hs2nuHVjL",
+            "width": 1512
+          }
+        ],
+        "place_id": "ChIJG4OyiHYuK4gRbhpEmEXpJYU",
+        "price_level": 2,
+        "rating": 3.4,
+        "user_ratings_total": 359
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5015 Yonge St, North York, ON M2N 5P1, Canada",
+        "name": "The Keg Steakhouse + Bar - North York",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104598775051453594413\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zhTGhLXZMx7RzdgIefb0cqlKlkupdpDD0UE2sgyc2tWBarPko-iJfgVD8irs10ipZgbm8PlrLF1FSe0x8Ewn57FapZyY9n8eoShXKEi83WxPF0CxeBigLnoGa6C3q7RBWeKN5k07lDg-ovvM5ZvG9GpyApD4VMEEcDHSewz_0InMuZ8",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJjdlEmm8tK4gR8peRQPo_Djs",
+        "price_level": 3,
+        "rating": 4.5,
+        "user_ratings_total": 2427
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "126 Willowdale Ave, North York, ON M2N 4Y2, Canada",
+        "name": "Michi Sushi",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113948259894140456284\">Manjunath</a>"
+            ],
+            "photo_reference": "ATJ83zgPFUAvOR8FUaRoSUYVDzKlEYdpqdtr5n9KrLYqPnuZRail7pu0B9uzLc_W79wPiBOnu01O6TRZ5ZVW8WguT5ByPshLe6hI2TYr6Swe6vvoRKxUhMxDLs9Pqlno46uIXHqhtYEGIahGzzcUAFwCfXqFtDJz364T_EnIvrGR4pUzLg6e",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJjbKs00gtK4gRHY1XF4llYag",
+        "price_level": 2,
+        "rating": 4.7,
+        "user_ratings_total": 590
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "116 Willowdale Ave, North York, ON M2N 4X9, Canada",
+        "name": "Paisano's",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115270095429737433208\">Cris Diaconu</a>"
+            ],
+            "photo_reference": "ATJ83zizganbwV78N2i3sHHlDppTnRNLOKAHA06J8T3eOuc149mLatAZrJlJU3H7nEzTlDvRd1LyAmQ0pVcgmLVLnX8yIKObsegPq7rrRQqd4oRPR65y0tX6ZrYbjaOU7AGafW5rJH-m65lywr730I-vwrkceI1Yqk9ghgPMuvGUjSeS8z7d",
+            "width": 3840
+          }
+        ],
+        "place_id": "ChIJB5rgKl0tK4gRu-nIqPoYd9c",
+        "price_level": 2,
+        "rating": 4.2,
+        "user_ratings_total": 1343
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "3 Park Home Ave, North York, ON M2N 6L3, Canada",
+        "name": "NOVOTEL TRIO",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 6000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109725116251262283400\">Uditha Senaratne</a>"
+            ],
+            "photo_reference": "ATJ83zgyOWnY_G69xT9vSkf1IWKmyZ5zN5414EQXkKDSeS9ehGttxibt8HRWnhUrXFy8H9if9g8C1I6tp_VRqro5ApCEC6tX2bK-8IocCCDRlJvSibP9avjN52NQrMmzSAvUm52kveHjfCk_Y44r6zowoGIIlWoCLUlGRDJ-1gwNxfpJ9k5t",
+            "width": 8000
+          }
+        ],
+        "place_id": "ChIJNWnx2XEtK4gRDHFHpvvSBIY",
+        "rating": 3.4,
+        "user_ratings_total": 35
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "199 Sheppard Ave E, North York, ON M2N 3A8, Canada",
+        "name": "Wimpy's Diner Sheppard Ave East and Bayview NORTH YORK",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3036,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115936235207186360390\">Eric Strebel</a>"
+            ],
+            "photo_reference": "ATJ83zg0913LLRVPo68xkPEyweeC1yeI5MgO_YD8AGrk8ZPRZdTSgo3urEidIVVUN6WnhLYeb_nbyWk06ng64wi0yEsvvFqP-8FJWbFMZTaH5iQgRu90xeYZOEmHzTY0snWV38zD8AykBjOhDUj00tsPaA_Q-vTn58PrO19TmHSz-lqWroPQ",
+            "width": 4048
+          }
+        ],
+        "place_id": "ChIJzcDsyFwtK4gRB4dYVjJg4K8",
+        "price_level": 1,
+        "rating": 3.8,
+        "user_ratings_total": 237
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "3200 Dufferin St, North York, ON M6A 2T2, Canada",
+        "name": "Shoeless Joe's Sports Grill",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107298210749609657830\">yuck Fu</a>"
+            ],
+            "photo_reference": "ATJ83zhXfOmo_JYiv1eb9mdl-DwkeWw8Brgvqej5OjsmuNHy-t-A4qwk1mCN3b1uTq8YGJbn-Y9V_CPU0Im7X7Ft7cKoENhb_IRL8d4XSS7XOZ76DEJiARYQXoglWXM2hOuPBMemQ-pTPTWCZUQi1khyBWn78oR56Nn7GHpkyjO_mqrQ6PRU",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJNe1kMMwzK4gR9T3Zxk375JU",
+        "price_level": 2,
+        "rating": 3.6,
+        "user_ratings_total": 1248
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "9 Church St, Toronto, ON M5E 1M2, Canada",
+        "name": "Amano Trattoria",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108446624627451865553\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zirzRtsWsYfJ0qjs9G5oqVEOZRchNUNLjRAFM9IWTbdcUYjgpc2apGZIJY-BAlpSKszDzkl-udhXeusQziihH9X3nIRiQCWScTGnH07FfSDigrvona0EW00P-qco6KJq82kQy4cvwijSaDW7jrCtVDuRbGBo0QZn2MEvUjiE0ArnahD",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ3drP1K3L1IkRs9dv-sRYGRw",
+        "rating": 4.5,
+        "user_ratings_total": 419
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "1800 Sheppard Ave E, North York, ON M2J 5A7, Canada",
+        "name": "Moxies Fairview Mall Restaurant",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104499353783989153071\">Saar Saleem</a>"
+            ],
+            "photo_reference": "ATJ83zi1XixZsoTcHuaHYlNpq9urwkTSDDz_NNOS-9FNBGhSReawIVjcY0aqIaqVu0AE4N3g0Vr2RzxHtrVSoOFWASHS1CCfRGbzOZ0Qa1LVgPm6YZD_557L0bGxaoekeN_R0DMZxzYFls_5DYgn0542LZ2dloFysT6RaqpXr6K5-JWuvpzU",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJ09aocfDS1IkRX5FTjPmIkcI",
+        "price_level": 2,
+        "rating": 4.1,
+        "user_ratings_total": 2143
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "849 Dundas St W, Toronto, ON M6J 1V5, Canada",
+        "name": "La Palma",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4485,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117907395675683765847\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zijCOz1d7Kp9sJHkAe0gIbeFBSaMISolVG6WflYdpqnSGxcqO0UN4Xsv-O9bhmd2ZB-9fEHkj6IEmoWF-0_eo9iEGv9zYebgNjA1WxE4xzV5H-HgDzqiXlI5mf1o9ptNxxSv8LU6gGO18ltTnBprXMX2lEluqcxVbTYcaYuoolGYDPA",
+            "width": 6949
+          }
+        ],
+        "place_id": "ChIJ-RBYNdY1K4gRaqVAnP_GtDg",
+        "rating": 4.3,
+        "user_ratings_total": 1304
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "4924 Yonge St, North York, ON M2N 5N5, Canada",
+        "name": "Sushi One",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106226269403454116992\">Kaveh Mozafari</a>"
+            ],
+            "photo_reference": "ATJ83zhFYadoqUeb89SisljkZlYLRfcsbZ0PwNol_jh-lTLqMSIa1Gf-RdCql8fB0iH-_4Myh4nb9PS4OxfngY2O7cVWN6I7E5kuhbiKL-Qz2kdVJL8EOw6nlgjekuQdDhbs7pRQU--kctCbUG5OiQ3fKc73UQYKAh5OW2Mfn4N74M_1Y4gk",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ7970DGUtK4gRloRJTDyYF-Q",
+        "price_level": 2,
+        "rating": 4.3,
+        "user_ratings_total": 1120
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "7982 167th St, Tinley Park, IL 60477, United States",
+        "name": "Tandoori House Indian Cuisine",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 672,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101012999662777117023\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zg1n09ZGp6P5GSRCsKUOtzb2_EkTbpS2jFU7tUH1P3zf0u5KMEYDLcNKqjxO3tUiDEKccM_2rxmVrl4jDOxDpxhIMkHTwUfRtfhRLZ4QwIShu43maA0W4JIoBQYwgssa8Tf9Frc9hPZzVTmvPVfam26eVBPeOCArI13OwJdVePvqw2q",
+            "width": 1540
+          }
+        ],
+        "place_id": "ChIJ48sb6q89DogR-pIvVg8YSYI",
+        "price_level": 2,
+        "rating": 4.4,
+        "user_ratings_total": 494
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5529 Yonge St, North York, ON M2N 5S3, Canada",
+        "name": "Lim Ga Ne",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114617216064907272987\">Minh T\u00fa Tr\u1ea7n</a>"
+            ],
+            "photo_reference": "ATJ83zhXHFfnSJ_TcqW-ND6D82sYjYbRTeXdyktyvQCbWd0SHyXKk3DU0Y4LLayoiPoRjEqyPpz204TJA_j2YAR59ijakCCyok5F49RIXIG7K7bbkcK7MU2ueSeNJKS2ybhXiURkRHKSuap6zy1r4r7SBxrpi4RkhX1hdrJ7RnV3sbQQqcVl",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ9Ulsmg0tK4gRjwkN3k8jBPc",
+        "price_level": 1,
+        "rating": 3.8,
+        "user_ratings_total": 792
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5221 Yonge St, North York, ON M2N 5P8, Canada",
+        "name": "Evviva Breakfast and Lunch",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114273752866969589298\">Yao Tong</a>"
+            ],
+            "photo_reference": "ATJ83zjXXAU3tQlJrjBnSA0Ux_pwMG9_3EYSZM6LOcBVlTO8sTRGMGNNOuqJDpMvi20Ew3cOwyrdJUJ6lVuKxMJeCaNq7rk7ob6PGalpthxrPhNnNsEoRUG7RsYLNpsi2nj5Kr-bvgVWLtYq6CLeC2UKw1U8Q_Z3IJUoCo47XWfxzo9_0jmN",
+            "width": 3724
+          }
+        ],
+        "place_id": "ChIJd0wwshctK4gRWiX0XbMEsJA",
+        "rating": 4.1,
+        "user_ratings_total": 566
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "CLOSED_PERMANENTLY",
+        "formatted_address": "5320 Yonge St, North York, ON M2N 5P9, Canada",
+        "name": "Oh Geul Boh Geul",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 2160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101663478044418098418\">Johnny Ngo</a>"
+            ],
+            "photo_reference": "ATJ83zit4ahKtu7Vnze_mU-vSJjpw2tvZhCCuBuokG_is8jinMW6rfc9L1rSLxaavUufVB2ethh6qQD3qR1Nt7JNLPWPIfgmoFZBKrcLshRyt2YJ61_hVRFYJpFzlqLOxiXjy6sUbRT4kyqVd8vk6ni5PifZOa_peREqOE8s2ba5zi8K9BlG",
+            "width": 3840
+          }
+        ],
+        "place_id": "ChIJz5Vafm0tK4gRFAaKYV_wyYw",
+        "price_level": 1,
+        "rating": 3.9,
+        "user_ratings_total": 288
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "505 Hood Rd #6, Markham, ON L3R 5V6, Canada",
+        "name": "Select Sandwich Corporate Catering",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 438,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103072700171522863898\">Select Sandwich</a>"
+            ],
+            "photo_reference": "ATJ83zjz7hSiZAhSJlCy9eBzaWFvD3UYfz9DgNk4ScJ5x745jhDWSGtJhVbO7vXXZ6xKUEH_7Mzj4g9Hmm7LFNNxWbeXsKJvT0_id_AJ0nZMo0DKFQBz-Ih19_svfOBV298TbLTvu4BuFfy9Q_3aHAJPSlXpO2i9NuJegthrQQe9j9bN0Eyn",
+            "width": 579
+          }
+        ],
+        "place_id": "ChIJbz4JXXvU1IkRy74I7jnt6yM",
+        "rating": 4.2,
+        "user_ratings_total": 93
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "4695 Yonge St, Toronto, ON M2N 5M3, Canada",
+        "name": "Eggsmart",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102051275962325701089\">Sara Gh</a>"
+            ],
+            "photo_reference": "ATJ83zjMksPoKQ91eewZ66tzDX0PcNHu5oorNa2hg8pRaXUJr5fAaocCPNwBIgyZqrbkKN0NRejt1pmQUaPFzKpFJz2owJgvvrrvwzb5nCzoanwe1m99kaIQ7aUFMBWh2j3VRJgvsLAmkKS0KlwTJutzv4E4H8SRsj9sQYfFLoZU4B0srJl0",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ_Ta9t2MtK4gRBaQT4_YaGUU",
+        "price_level": 1,
+        "rating": 4.2,
+        "user_ratings_total": 899
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5460 Yonge St #100, North York, ON M2N 6K7, Canada",
+        "name": "Kayagum Restaurant",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111876533756909495205\">Phillip Chong</a>"
+            ],
+            "photo_reference": "ATJ83zhgQs5TVS0WNjE1fHdMnvir0P0wvahd-_MMEgkbIOTBE9Kgw8vbQOLmH2vEB__hoTqwvhHitdSHAChWKColhxpTfvJLhqmrzTVWQPub4dCy4s3t0AIv2Zz09k3J27k5NUS3fVQFGMTRVvdPKenUsWHOVuw-h56eCaqoHgnFtv_UXEz4",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ8YfkcA0tK4gR-3hI07cbLKI",
+        "price_level": 2,
+        "rating": 3.8,
+        "user_ratings_total": 1039
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5650 Yonge St, North York, ON M2N 4E9, Canada",
+        "name": "Piazza Manna",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112085455023289461975\">karen</a>"
+            ],
+            "photo_reference": "ATJ83zh4Ly-9kC_GFnOVJHlqRKZv_8m9D03dA6sDX3jCYwMLJVt0UKgaBXbd1y5FwA6i2JmDWKsJa9pIwzR1QuQvBPTjgzQgkXyBI5EFgXzOCYbYLkW63yx5zm3oAQI4ntxuPCsV3zLMe3CzzXhBytBOCagyF_gq28GAH-MKhokNUzKjJV39",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJBZztCg4tK4gRZ9zDZyntdLo",
+        "rating": 4.2,
+        "user_ratings_total": 42
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5754 Yonge St, North York, ON M2M 3T6, Canada",
+        "name": "Finch JungSooNae \ud540\uce58 \uc815\uc218\ub124 \ub69d\ubc30\uae30",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109338721517906133528\">Jung Soo Nae Restaurant</a>"
+            ],
+            "photo_reference": "ATJ83zgsIk7cMsHWdoLzFjew78VHdjm150jk7qHsed_691rpqQksh1chaNZH0h0lDbdaR5IYD0Krw2SsjcoMoJdh1f8l6ujDjAZaN2HbUijvlo0FZWrbwO52HtDFTu4wc5-KTGpHSv0g4Sa6pOJhxuPUU6wMsJhnmrJgP3v9ATCS5u62Mbpd",
+            "width": 2160
+          }
+        ],
+        "place_id": "ChIJCxtUrQ8tK4gRzGY74H1wtno",
+        "price_level": 2,
+        "rating": 4,
+        "user_ratings_total": 544
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "390 Steeles Ave W #5, Thornhill, ON L4J 6X2, Canada",
+        "name": "JungSooNe Bonga (JungSooNe Steeles) \uc2a4\ud2f8 \uc815\uc218\ub124",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107409234386223212914\">Jung Soo Ne Restaurant</a>"
+            ],
+            "photo_reference": "ATJ83zicT4BXk4dKyAgOrnEndn1hbBLHpam4RJwsdkFGsF2-T7y4O4oP9yT2gnw540HncIBcQqty8-F1IjQPmBBctYcZcnoQuJAish5c-690Nn97wicudTOuu_y65oDq5DoLzB-I-DCjDFed3m89H0nwieS8lqcS5dAZgREnxAey0BGgyKB3",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJi7n3rE8qK4gRgNBWJSAgtac",
+        "price_level": 2,
+        "rating": 4,
+        "user_ratings_total": 345
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "100 City Centre Dr, Mississauga, ON L5B 2C9, Canada",
+        "name": "Kenzo",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJmXH7ailHK4gRyair_Hydwuw",
+        "rating": 0,
+        "user_ratings_total": 0
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "3555 Don Mills Rd unit 9, North York, ON M2H 3N3, Canada",
+        "name": "Pho Vietnamese Delight",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105045267660122706983\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zhI9JsQeCvqVv4ZsCvYf_fqjE_-WsdgF06TLntZVf6wIymfRS1GbMsrp_kSQemLmhzeAWT1W8kzqOBst7l1W_bHot3_ZC3wTqZq02nZQZVtklUg6nt6aYTfabxYdwCfkyFbO6Zi7FOT0ib1kFUbPM64cB15il63hjL2p_gx2reYvx8v",
+            "width": 3025
+          }
+        ],
+        "place_id": "ChIJQf4dJRnT1IkRad7psoSHgKU",
+        "price_level": 1,
+        "rating": 3.6,
+        "user_ratings_total": 314
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5467 Yonge St, North York, ON M2N 5S1, Canada",
+        "name": "Oh! Bar",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113859005417939491154\">shiv chaitanya</a>"
+            ],
+            "photo_reference": "ATJ83zhWhpDl_YXj744mUUlgC9c0usUS5IZTKFbCSkHX9RnpPbPMpBDi6sZ0sxyDX-Dxx8Z8yWwcQ1bMrzIsRvMiGDxNdZ_AJ-ONLQWtCt2s4_G17an-_dlDkvYQOuYB_awzJo9jVFF_6BSfBVAJBrPf1gQjaXds2p86A-OaDwlZlg0q8EY3",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJQ3sieA0tK4gR9g3hjLTeG24",
+        "price_level": 2,
+        "rating": 4.4,
+        "user_ratings_total": 132
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "4704 Yonge St, North York, ON M2N 5M4, Canada",
+        "name": "EAT BKK Thai Kitchen (Sheppard)",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109039884445607522897\">Eat BKK Thai Kitchen</a>"
+            ],
+            "photo_reference": "ATJ83zgDjlZZBQm7EaFJiFUYRialyQYG7cnMexO8ENSlY1ZJt0xtoNVbbv0piqO3r42sxBib3exBQ4Rf-QDQkn8HcSEBRePN1xefh50D5XM8ZZlHyUIkTWIHrjrsR1AXChNtPtPSdCY_DMomHfm1CiyoQ5BIS5oCO5DsHRoxFu5erhsO4vy6",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJDZr-pGMtK4gRSvbC3B1gvDo",
+        "price_level": 2,
+        "rating": 4.2,
+        "user_ratings_total": 1101
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "4775 Yonge St, North York, ON M2N 5M5, Canada",
+        "name": "Kinka Izakaya",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114726647530700099565\">Simin</a>"
+            ],
+            "photo_reference": "ATJ83zio6fz1bO8Uste4j28M8z_uzpLOhUGRfLbyPwDUsz5ChnI6IUDKXK2Q3riOry-qYCt8Gz5KJdRCr0uQ8gc5TfiHlNF1QDn1CC-Y9yukcqC4dHR5uQcNO50QzUlpCcmN0kPBb0zNzmAFoYxdWW3hKCVZZxCBhVkYA52to7n6K8Qb17LU",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJX7GFAGQtK4gR6r2AAt35J_w",
+        "price_level": 2,
+        "rating": 4.2,
+        "user_ratings_total": 1754
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "formatted_address": "4664 Yonge St, North York, ON M2N 5M1, Canada",
+        "name": "The Spicy & Delicious",
+        "permanently_closed": true,
+        "place_id": "ChIJ6dbkS2ItK4gRXqt7aH79vec",
+        "rating": 0,
+        "user_ratings_total": 0
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "4664 Yonge St Unit 21, North York, ON M2N 5M1, Canada",
+        "name": "PHO OK",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 9000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100175501994583481212\">Alexander Soza</a>"
+            ],
+            "photo_reference": "ATJ83zhPwYxgsD8CCmmyL7rgZV9KR6RadIkHlMMkKkpiSzHYgW90Ug-VI2I2b2Ua11DgHiW8aB6EWiXvkhib7xn3kE0V1E9tx0FkZfoz4wmjeJSgeNZKSCCZ-VGgvxZIAevUrTm1GiABtYPI8UCS_17bbOKFm2Kr8vg-7VP8LywBzCdW0tHl",
+            "width": 12000
+          }
+        ],
+        "place_id": "ChIJTz_XfP8tK4gRXhCZOgYtB_E",
+        "price_level": 2,
+        "rating": 4.5,
+        "user_ratings_total": 738
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5582 Yonge St, North York, ON M2N 5S2, Canada",
+        "name": "Yonge Karaoke",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2184,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102887454727735108559\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zg_7GxIXu9MJyDXa2es-iXuVeWGEDNJ32MW9dVGndqR5r8jedGgdfhuqX_cnteR9Na2tcm3HHYiDlUL3UyVa8UnnsKoUzXL7yZltHZsddsafKiJZRb5BNl-thd1clXd0ALJKND4gzOIOa85ZhgFdJOtRVpYy6tlbeBsC6Xo5t6QqouO",
+            "width": 4058
+          }
+        ],
+        "place_id": "ChIJt5RTlA0tK4gRjBoufPoKgF8",
+        "price_level": 1,
+        "rating": 3.9,
+        "user_ratings_total": 271
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "290 Selkirk Ave, Winnipeg, MB R2W 2L7, Canada",
+        "name": "Gangnam Sushi",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2269,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106921534015838677343\">Gangnam Sushi</a>"
+            ],
+            "photo_reference": "ATJ83zhKLKYg_4ge3EjV7_7jiD39b24Ypr-TO4mRHc6tSU_qS94hcie4BojwmVXFfEC4DsWr-YMZsT6hPOmy0bKARnwc-LVkpb1YYovba2vcuSsJMbmc8oo3d27nV43bxjh2aPj6Zydn-1fI3-KVyqZrtQVOeVMIF7s33ybTctxV12DJc3Uq",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJieWe0HFx6lIRKLtgXfdQQxw",
+        "price_level": 1,
+        "rating": 4.6,
+        "user_ratings_total": 180
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "189 Sheppard Ave E, North York, ON M2N 3A8, Canada",
+        "name": "Spring China House",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115934142556057479922\">Rocky Wang</a>"
+            ],
+            "photo_reference": "ATJ83zg5tHs-mgW9Q3won-nJ87VRBcM3J0z28xvYhwxzM7n705Dck8ael0YMKWb96DEKFN7Wi99qux4DwhfCHFhOW3CHCYyUD242MaNvy4629h_vSBJKsorlsy3suOt4AQeydSk2FewhN4b-0F2p7wjiqxtLjqhzR80nKJziSfp7kOHhSlqV",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJz_hpxVwtK4gRNMr0fKLrdNU",
+        "price_level": 1,
+        "rating": 3.6,
+        "user_ratings_total": 175
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "13 Byng Ave, North York, ON M2N 5R7, Canada",
+        "name": "Sansotei Ramen",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 831,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117908861558122701310\">Sansotei Ramen</a>"
+            ],
+            "photo_reference": "ATJ83zgYsEzd_d9adRNcgIdXzAvPyhHMuxnXpi4f9bRl_4gUhHROUxO9ifP1YkJNSLSZCvyGzPA5nocF4XTLhruo9ilSyh9fIIhXbVEfNN77VP8ylsUFEqZ9E_EEhbm97Y6xEcsgRl3p5q7pHU_qjxwqvXkDL3XCXq1KlKfQwuwkcEptPm48",
+            "width": 1125
+          }
+        ],
+        "place_id": "ChIJ026GnxItK4gRmi39cpZ8ApI",
+        "price_level": 2,
+        "rating": 4.3,
+        "user_ratings_total": 938
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "9 Byng Ave, North York, ON M2N 0E6, Canada",
+        "name": "VIPS Sushi",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112262103599048649229\">Darius Yang</a>"
+            ],
+            "photo_reference": "ATJ83zgtgb79LePIBMROf_leV5r9kpF1LCWUCRFk2T1-Sxcr1v0Fn7OPkM9b1idXblNPmkvK4MvLyK5KZwk_kzya379FIRigaDDLl-GQyqMX1aq8Pwur6QQ8tlsd63ky2JGbmLnSAB_7-SX6Ppee-JZuJByvulpCH4vPmPjRQsCQ3e9hLRyd",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJn9nIAprO1IkRhkb8SFvI-UY",
+        "price_level": 2,
+        "rating": 4.5,
+        "user_ratings_total": 606
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "4775 Yonge St, North York, ON M2N 5M5, Canada",
+        "name": "Kinka Izakaya",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101349030773461981771\">eric ong</a>"
+            ],
+            "photo_reference": "ATJ83zgkjAtMKQTabjydWp4QyxaaXlrBLoFNq45X4qrnHqrxHOuQJ4tj26tMoA-UmzHrejnEbSxthQKZFsn2NAD9WM0KaZkPLk_dxCx3dCEtSMQKAf29ae5HCul6iOzQi1Udd2OwhR7n-EKdVsf0QvB-t07FLyWNg_g-1b0eFJUDiKyQQds1",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJX7GFAGQtK4gR6r2AAt35J_w",
+        "price_level": 2,
+        "rating": 4.2,
+        "user_ratings_total": 1754
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "3 Byng Ave, North York, ON M2N 7H4, Canada",
+        "name": "Pizza Shab",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102647230497429197552\">Pizza Shab (Night Pizza)</a>"
+            ],
+            "photo_reference": "ATJ83ziAMeq430BcyqSTSYDYdANbEQIFkAtQG4ROzj_-QHrIJbVh6_jaNGyKs-L6nM5y60u9md5D2vOWCrECMaLYg4iGvEPfzOyqRfFtdZq2RBLQxn5T6UxfYKdZuuqGbj4KAisKSbc9Vrj0aWIHtOs_vQF4irvy-m-UI4Dp-d_LPi9PQdXz",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJ5xxnZw0tK4gREv2eZ2TLCS0",
+        "price_level": 2,
+        "rating": 4,
+        "user_ratings_total": 681
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5461 Yonge St, North York, ON M2N 5S1, Canada",
+        "name": "Sang-Ji Fried Bao",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118034639154165574533\">Dan Lam</a>"
+            ],
+            "photo_reference": "ATJ83zhMadtRXJGWw1vb7Wd0xntWgp23zV_Udd6LsXa461jPSU7e9D9WoOBurOiNA7Mrr8k4k4OTslprgCgl7tibd8ultQZQHTP1F0X6TAUykbcRSf2dfqMpflVxxJ0XfU8TQUqGfNC5bHV-DM1m2jQDd-B8wDzSjtm7tJzHpSmfoWJnIqU7",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ_2xCxagtK4gR6CBsIsW8uD4",
+        "rating": 4.5,
+        "user_ratings_total": 863
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "CLOSED_PERMANENTLY",
+        "formatted_address": "5433 Yonge St, North York, ON M2N 5R6, Canada",
+        "name": "North Stars Bar and Grill",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 1856,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112776237350226819268\">Ed Leung</a>"
+            ],
+            "photo_reference": "ATJ83zj6pbFBlSiZc2RFaotLL0iiH_yKBGRJ4zIVPbhzpsoIAuDIeg7LxrDAi1B47uIjfhiEL8D3kpa6jyWuUVYkHO3LQUJLRH_qMTQ1i_J9_kzAlx6wxPK7QeFrkmZr5XIGktOjVK2_wduotoTweK3NNsDua3IanuwII2x0xAjOM575EvJm",
+            "width": 2784
+          }
+        ],
+        "place_id": "ChIJ_ym9XQ0tK4gRL3o5o06S_WU",
+        "rating": 3.5,
+        "user_ratings_total": 132
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5229 Yonge St, North York, ON M2N 5P8, Canada",
+        "name": "Ajisen Ramen",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101313748948509725557\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zgcrxRugEqtpMLL2u-SFcfND0Pcjaovhn-4bIdsKyDxcgQdLMVhjR2YP_t6LI9L3TQ3khQKAJzD6Td2q-UMAkfJBW_WKCQBER-QlX1IGEUiMgRU7e3lF_U16P0pGKzph-9qtUiKr-7tLifvLEkaG_f8BiEHg71Sg2FajSKAmc_d8HAU",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ6bkP7m0tK4gRQZnkNQasIKY",
+        "price_level": 1,
+        "rating": 4.1,
+        "user_ratings_total": 1453
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5193 Yonge St, North York, ON M2N 5P7, Canada",
+        "name": "Tea Shop 168",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114354476108702233716\">Christopher Chan</a>"
+            ],
+            "photo_reference": "ATJ83ziVkzNX_tMFinyqPxlh1_Nz1jQMYYD4bTqfvVEAZ7LQJqE9mgqCGaNTtRY-r-qHPAKVquQvZb2EI6a7RttcFnfF9lbtGrIz9vVIGx_1WlYLS6y_PdAWgxa3G8JGeMXl0sjefHddKWxj0J2h5BOstzcvCA_VUWR6wHPDKSeW71uB6dbr",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJrUW7C24tK4gRuW2Ewfh0x0w",
+        "rating": 3.6,
+        "user_ratings_total": 354
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "formatted_address": "2-1177 Central Pkwy W, Mississauga, ON L5C 4P3, Canada",
+        "name": "Morals Village AYCE Hot Pot",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 3266,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115830756781285368108\">Devon Liu</a>"
+            ],
+            "photo_reference": "ATJ83zj4-9SVmLsSkqu6KP553oPs5nHSVyr68K7CHmz-AcQ2lKXfAUT6KOhyd1m3dUMEH247B_xP7sp5__ShVtfsD_J5hZakIRnM8Anb9PPvrzmTtYcVc1cXGyeaZTNJOTZsdLMzLylULP0LNjAdB7cnIXEmNX8OyHw-iXxrhmOZaIadlclj",
+            "width": 4898
+          }
+        ],
+        "place_id": "ChIJXZLaiEhBK4gRag_A5gibSqU",
+        "rating": 3.2,
+        "user_ratings_total": 271
+      },
+      {
+        "business_status": "CLOSED_PERMANENTLY",
+        "formatted_address": "436 Dundas St W 2nd Floor, Toronto, ON M5T 1G7, Canada",
+        "name": "Morals Village",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110611150215419094623\">sheryl kam</a>"
+            ],
+            "photo_reference": "ATJ83zj91WLvpsCiTpQ9BUMpf29CKBIrcWjq8pXuVwWIHCb9fvsHHRZxrjmABlMNh-B7J7x-XbXIE07vyLgCrg-Vt5RycOXZAW0_nKxaVV05KUaDhL49iLKUMNmycVn_ueLEJJ_IO-kO4EnPTqmSyALerTyAZUJ7t0LNHcRN5xAq7Dj1meb-",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ22ZUQsQ0K4gR3QMawslioBI",
+        "price_level": 2,
+        "rating": 3.4,
+        "user_ratings_total": 446
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5417 Yonge St, North York, ON M2N 5R6, Canada",
+        "name": "Pastel Creperie & Dessert House",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2940,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116401023288863101497\">David Ycasiano</a>"
+            ],
+            "photo_reference": "ATJ83zgDy-n518igVbaBaLnGluJS6wNneGM5hjVWnQvmECxHBIK9G2ZP_9JN9bF9L4WnXVhak2dDhCJxsplblRPRmvtxlMEigAx0EsK2ZedVZyyFcBF54WTzJZU9_9yrKlNG09Wr-pq1xesn78zMd5BgRxBH3DDPZkH37H5qwSoRXl1daJd_",
+            "width": 4476
+          }
+        ],
+        "place_id": "ChIJz2byWw0tK4gRMG0Gfz-rSBM",
+        "rating": 4.4,
+        "user_ratings_total": 1160
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5371 Yonge St, North York, ON M2N 5R6, Canada",
+        "name": "Chengdu Taste",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115360954560523913950\">Tian Lan</a>"
+            ],
+            "photo_reference": "ATJ83zhkVwAK907mtL59l7sTodmnqkYr3Uj5CQ06M6y9FeCegaWXlcwpAXQbHovhgruOKJW5xhCx7FV-4ZMkFRavibusMk52I6RD3Yur2VD34yuyV_HKBjt2YmQ2rHS4WYPKIGwZjeD5nvnYYvAOzXiso-LC8iXCWbhijbRESnAWCy8aUtKg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJhYeqVw0tK4gRz4gKldngv_Y",
+        "rating": 4.3,
+        "user_ratings_total": 252
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5369 Yonge St, North York, ON M2N 5R6, Canada",
+        "name": "Beijing Restaurant",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2368,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114331919870051800179\">hanako317</a>"
+            ],
+            "photo_reference": "ATJ83zhFTN5PtTIXCZkeh3kWnlNv8m-3jf4PVcsX7Wqja8jret7za0ToxD11IybD7TZnNjH-he8Bk5YHNO_oN_CMExJGonSOKNp7aSMH5LqHstlP6Mca9M5duVE_HPMB-HAIx5JkJaZ2XWv4vTr9vN_5CPHvf_IBgCM5jeNRHcle1JRhFX-w",
+            "width": 4208
+          }
+        ],
+        "place_id": "ChIJgSpXVg0tK4gROrrjwBuvMhw",
+        "rating": 3.3,
+        "user_ratings_total": 112
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5 Northtown Way #4, North York, ON M2N 7A1, Canada",
+        "name": "Miss Durian\u69b4\u83b2\u5c0f\u59d0\u751c\u54c1\u86cb\u7cd5\u5e97",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3904,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102393057104566423927\">Miss Durian</a>"
+            ],
+            "photo_reference": "ATJ83ziJTdMBvmSn0HF4if1ZQkQhGzlEzPLkfrlKklkFmm-r_h3NhlQfHXzfFGQT0BQeI5f7bkHfwRtZcG4udPjKm1NEAnJEx0vfi5I5aRU9Gftsel9EqwjuOp0isn1OFDgcbqK5Ov8X-hVxLgeqVIT_gufJEwP-kC1NYOL0SdvPWwP4dCZV",
+            "width": 4540
+          }
+        ],
+        "place_id": "ChIJEUXwUW0tK4gRV3a_rIQE3JI",
+        "rating": 4.1,
+        "user_ratings_total": 176
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "CLOSED_PERMANENTLY",
+        "formatted_address": "5 Northtown Way unit#5, North York, ON M2N 7A1, Canada",
+        "name": "Go Topoki",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112182722232067423241\">Claire KIM-KING</a>"
+            ],
+            "photo_reference": "ATJ83ziGxTPsgjfZFwBcQsygIig59zQotbpEua68iUlzWltyJ4A0SjFSW03yURbrxBJ5VDQk4EsjyiKvppbvylpKgElgFlD3ge0ceovrY3N5jcyO5xKxAeZ5jaQMV2tUmJjI8GJIpPTZPGnlWkr-v-FfdJHjEy8pW0BdgeD7O1_Y_d4S5BOu",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJnQc-Vm0tK4gRYvuxeW_9H7M",
+        "rating": 4.2,
+        "user_ratings_total": 175
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5 Northtown Way #10, North York, ON M2N 7A1, Canada",
+        "name": "Roll.Com",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1942,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111200468463783926344\">Marcial Cuesta</a>"
+            ],
+            "photo_reference": "ATJ83zhjiwMUz7Et0RHfqXdNXfJSQ5cNnzEq-rpiTGumWl7g1vBLkIjv_DXjJApmmLss3jIESTPwDveNmKkyCti0-t6Ab0hsIzqci5wgm9V3XFZkV5-PWsbuXUs2DyjyclJl-XQAv9NPXLdqZUaDY5DPTcfwwkLuaO8iYHkxAhX8AhDVhj_Q",
+            "width": 4208
+          }
+        ],
+        "place_id": "ChIJTXy9VW0tK4gRHjLxfPmhPHs",
+        "price_level": 1,
+        "rating": 3.9,
+        "user_ratings_total": 260
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5600 Yonge St, Toronto, ON M2N 5S2, Canada",
+        "name": "Chicken in the Kitchen",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102276881716788924836\">jorge oliva</a>"
+            ],
+            "photo_reference": "ATJ83zjp3tKUnh_XVniDrsEzTNNP6s3CB11wZ7QEsejLtESQIXmEoGi6BmfGYply56nGlo2ooiX_xztSDl72eWCF0IfOIYEotwcD-G43lXdH4esqBK7V7A8eV1POtgjsw4hB3juz3ruKM2ncDgN9t3fAtfBUkQkD1BTaqTvkJVlgc3Rw1B8Y",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJJcL-wQ0tK4gRphv-7s8Pldk",
+        "price_level": 2,
+        "rating": 4,
+        "user_ratings_total": 1168
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5594 Yonge St, North York, ON M2N 5S2, Canada",
+        "name": "Nakwon Korean Restaurant(NorthYork)",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108822761296561478687\">Patrick Asselin</a>"
+            ],
+            "photo_reference": "ATJ83zjv5j4_J5E2kiVVL6hNLJV7JATmUjbpNAMBHnLilpOnfEkaxTYw2-Evp3ACUlOIuhwwpR0buJlTZACMKSY8cSJL6ShiRAIDqOFrWc0JT0Lr2fXWT11bnnquWjdqmTXl9V5qjBP2kd5g1BrZ78EHhGJENX3h5UwoYAtHabwRGhuRHy2q",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJs6vPuA0tK4gRHMHV8D0_4L4",
+        "price_level": 1,
+        "rating": 3.7,
+        "user_ratings_total": 838
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5588 Yonge St, North York, ON M2N 5S2, Canada",
+        "name": "Pyung Won House",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117729320122050456469\">\ud3c9\uc6d0\uc9d1(Pyung-Won House) (\ud55c\uc2dd\uc2dd\ub2f9)</a>"
+            ],
+            "photo_reference": "ATJ83zhI3K1xsKDroIXSMosZDBaXAFtgJAkqhLH-EKLLuanbojp49J7EBOtC6KsepMQ1HRl-dnwgHD_698Ls9Qr4IftV7ZHyzA4f1j9Gp1mGT_cDMp0R9H7or9YBdnm2ruwZDIWD_JbS_lsaSs9v2K67jh4XqDf3TT8NAu0zVAb0H5ufvFeX",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJF2r76Q0tK4gR55QEofDN6ns",
+        "price_level": 2,
+        "rating": 3.5,
+        "user_ratings_total": 351
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5590 Yonge St, North York, ON M2N 5S2, Canada",
+        "name": "Caf\u00e9 Princess",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106683005608079601567\">Richard</a>"
+            ],
+            "photo_reference": "ATJ83zgL6yKJLnBU0YvFiLwOLyXN2YRwJV1AZCXyIzDqy1QBsuCxlqlZ9IrB4ywdqJMvUu2vaVsvuBvh0Bwr0E9FFrIYHSpVUmTXrhAaR__g0riC83grGVTIi4-syRe6_JhdslhiGbGKosc51V5IVTzvc127pMe8OCbdoBPCWrGOC-xWoyhc",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ3V7Www0tK4gRLb82F3R8P7Q",
+        "price_level": 2,
+        "rating": 3.9,
+        "user_ratings_total": 536
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "79 Billy Bishop Way, North York, ON M3K 0C2, Canada",
+        "name": "P\u00fcr & Simple",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111936859120778406832\">Shayana Varatharatnam</a>"
+            ],
+            "photo_reference": "ATJ83zhq_JkutzdafqkMJdx7K-k5LpfpXwsh0qa_gRJKEB009ePG7UTz_ASt8gI0DEH4PxQEXPKO3KBHNJqdFyLJm4gdws5-zh9sT38oeVAZcOopDPU9n3tfnv8DUHINX8jG45X0hU-vd28KIEeXwZp-s4ZCxGco9_nkA0cUOkn7K9nuxUuK",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJUdkZRKYzK4gR3GIhTX7eQo0",
+        "price_level": 2,
+        "rating": 4.3,
+        "user_ratings_total": 387
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "3555 Don Mills Rd unit 9, North York, ON M2H 3N3, Canada",
+        "name": "Pho Vietnamese Delight",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2779,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115365762457823404445\">Difei Xu</a>"
+            ],
+            "photo_reference": "ATJ83zi14fIM57-UrtOZep4F1czdUHEZ49fxEAfhB4BDx79wof0NKsMNzrUnyNyUEzjAeTetO2HzcthVtyr0PWPxxGs63w2JiMdGCh3wViTfXIxJY0QdbEDe-jWs4evGY7GXkHnrIdchCOFkooAPXboWl4KuVcjKS-toF_6trDTi9gKmls76",
+            "width": 3701
+          }
+        ],
+        "place_id": "ChIJQf4dJRnT1IkRad7psoSHgKU",
+        "price_level": 1,
+        "rating": 3.6,
+        "user_ratings_total": 314
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5529 Yonge St, North York, ON M2N 5S3, Canada",
+        "name": "Lim Ga Ne",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114617216064907272987\">Minh T\u00fa Tr\u1ea7n</a>"
+            ],
+            "photo_reference": "ATJ83zgjHZIyno-TjISRc9Oq7JGZxFko-0sOxrKFxe50IihpVXLK72Z8IT2pyLzPEgqS9psqpgX58_8YvE7YkYLUUOFUHMbtBM-zXXPo55ILQYkCjNvimOBYvion8qPBHTGU3opZu4rJ_KK1UjJ18yqfl0cVFcIW_sjSL7HicnB7siS4Gz8n",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ9Ulsmg0tK4gRjwkN3k8jBPc",
+        "price_level": 1,
+        "rating": 3.8,
+        "user_ratings_total": 792
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5525 Yonge St, North York, ON M2N 7L3, Canada",
+        "name": "Hot Star Large Fried Chicken",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102224999384525194533\">Andrew Tan</a>"
+            ],
+            "photo_reference": "ATJ83ziRIvJwcDQ5Sbbln4y2yDQIiF0ZsNtNMJ5i8SWH3RjWP3nuil-ZB8yKw_Jd7I6KkdKnJMwCtRgKiqzCw8s1XrzR6Vy8H69JysWM1At7f5WMdNz8_8mQn4XHpEir0G_yvCbWLlCEhnD3ll-Y3GOoXygw1Ku530t8-xVt4P0XK5xwpIY",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ___7mQ0tK4gRiLcS7KDjbGU",
+        "price_level": 2,
+        "rating": 3.7,
+        "user_ratings_total": 295
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "4300 Steeles Ave E Unit F1, Markham, ON L3R 0N8, Canada",
+        "name": "Hot Star Large Fried Chicken",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3648,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104482710118479661946\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zjiL9uiaz_j1XTwNnu33ipUNyjb8AQq1v5rpeuS3IqImwH-jeuBElH6l0093_c_O9Mc4E4Dlwwz-oY5NW4qnIQOM4isplS2HLys5fjRs5IitQVCFtEP71dj9UYBfe3THtEsadHCcL4Q6cVtGWqyP8kZCQC29_ZWe8GeD56RQos4UlHl",
+            "width": 5472
+          }
+        ],
+        "place_id": "ChIJWwGNTwnU1IkRQejZj1qg-bg",
+        "rating": 3,
+        "user_ratings_total": 120
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "111 Ravel Rd, North York, ON M2H 1T1, Canada",
+        "name": "He He Long BBQ Take-Out Shop",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112935863970235250092\">Jeffrey Ng</a>"
+            ],
+            "photo_reference": "ATJ83zgQ0c0Fz3OuZdBE-fYCc9SB8FNilJfxPbtHtc_tX3tktD3Tak2fP0yh9fF2MpK-1Mf9ZEvbFEsLgdiAxgKDfhi0W4qp3_FtVl4OdYkC3QZHRqf3vhy3ErWMhTwv6g4Y3vts-sSVtW7u0JOhxBornCnX3OREiN6zKmRHzhne1wvOpPM5",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ3W2wCSfT1IkRBMLRcYeIlMU",
+        "price_level": 2,
+        "rating": 4,
+        "user_ratings_total": 151
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5469 Yonge St, North York, ON M2N 5S1, Canada",
+        "name": "MeNami Udon & Sake Bar",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108154104517596066790\">Matt Au-Yeung</a>"
+            ],
+            "photo_reference": "ATJ83zhV5VqD5dAqvxyh4f1Un-8_Kc-smMFGs9Iho9P2zT8YziJHg_P9lkoDmOC_HdWHupIldqANTeQXHTX0J_yfKRrVetI1IiIhEkALEudZjLiOD5gWOtNCX5jaSK_wwEGPhAnXu_IhGQij179HGUQb1zCQ6sjXo7Kn6O3PiosAe4ghifms",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJr9ikgg0tK4gR5gOLzpbB7Po",
+        "price_level": 2,
+        "rating": 4.2,
+        "user_ratings_total": 1656
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "270 West Beaver Creek Rd #15, Richmond Hill, ON L4B 3Z1, Canada",
+        "name": "Tasty Hut Meat \u7f8e\u5473\u685f",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102136608659735410110\">Joseph Cuda</a>"
+            ],
+            "photo_reference": "ATJ83zj3T9-DcoFL7XiIEgTpJY1zzF4HDnSRTe6b5w708yyFZivHi2ThiZ6jMkNLlLsNw7fKTzhqqUnct6tC5zB64PHmy6p8LPO9Nxt6wyFzH4jBT32nj5czqkpiHOQDHV2QKzUx1IU3NmUYzVvgAOZ1UZcHykUEDzFvb652C_kUYUF3AXZg",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJZXnfNkkrK4gR4f6a34H6NUo",
+        "rating": 4.7,
+        "user_ratings_total": 6
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5437 Yonge St, North York, ON M2N 5S3, Canada",
+        "name": "Yuan Chinese Cuisine",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104125171660168388422\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zh_vQK6RNjtTdIg1kSL5LB_N8BbHuvdqgPc6JpPTSux6zlnYluyO5THG5fgxJNfXroMQIyXsCXnPs5VQ-8Gk0dfukJJuJJ9EJKUmEdb_1V4ALyh2X17WiJhxv7LEz_Rj9UVz5hmlfdHE2U1E1Yxsq7Zlpzswrn9rlo2zOtKmHxbzf5r",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJD-tEYQ0tK4gRd17XkTSFC5A",
+        "rating": 3.8,
+        "user_ratings_total": 294
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5455 Yonge St, North York, ON M2N 5S1, Canada",
+        "name": "MABU Station",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105048735746597591887\">az-Ray s.</a>"
+            ],
+            "photo_reference": "ATJ83zhFXJ00sebigvU8nNiG483wE7qUyy0TjpELLX9ribCGDjiAsGygxJSAHc3MdpsTMUAFvV87lgBIS89ldXHzdKJ0mlDEMlAOcUYxRr_L-CXS1ojdTiqIV4kdgUIZNzvRST074812NrCpecbOnLMHGnZjm9ueS9mNMHGs0RjkLixNBsNl",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ72ajcA0tK4gRGiv6IRTKFVY",
+        "price_level": 2,
+        "rating": 3.7,
+        "user_ratings_total": 787
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5453 Yonge St, North York, ON M2N 5S1, Canada",
+        "name": "Magic Noodle",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106329691492408249741\">Magic Noodle North York</a>"
+            ],
+            "photo_reference": "ATJ83zh980qBI1dev5VWR0GFQCgdooQiWLhDFTdklKzcSvAaKUEiDDEBRztGJkphpaCga0B_FPLojWp8xW7vyzhe3RjGcMbPEwtTm6-GO2Gc-ZnDIlixlUzRjuZM8UEW47ugFxal527xJth3-I8EQQl3LvAuGlM7DmE3ItGtWrNMvtxSwFdR",
+            "width": 1733
+          }
+        ],
+        "place_id": "ChIJhcW2ew0tK4gRuxMQN3FVvy4",
+        "price_level": 1,
+        "rating": 3.9,
+        "user_ratings_total": 1035
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5451 Yonge St, North York, ON M2N 5S1, Canada",
+        "name": "Shanghai Korean Chinese Restaurant",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108573590728406165868\">Jake Kang</a>"
+            ],
+            "photo_reference": "ATJ83zjgMMrYVNJfn4GoiGD7YXYzE87EtzIljTEzOsGeB8aVvoAQoF7BJNB30AqpmKWBEnFpgMQ8w-qwT5m-c_en8dtdtP84XCeoT3lA8XQ5UFUmSKhFxnWnRy3XHt9qxNon-uXcjMrRgSpr4ppL4u2778MbHVSVhUvZAXFV9krHtT2_d0Ej",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJGxrweg0tK4gR_42f_HlzUjs",
+        "rating": 4,
+        "user_ratings_total": 309
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5445 Yonge St, North York, ON M2N 6K7, Canada",
+        "name": "Buk Chang Dong Soon Tofu",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113661584788607994117\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zg2ZYL5v8Hq7FfjLpgU52ms37GO28i0-6E3N0Ov2HuMPfAFakcXMeZ8AbOVaCLFQqVxfSo2oj6xgrGy0XC1IeCejQcU6IdvPirrAJn_W69S2mUANZRT6P1KVHDAZvE6U2MrUYX-55HrSJhrDdQAHRFDrBTYiK_30bezbg4kW7JaPuqF",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJN2UnZQ0tK4gRXQ-sUakD0-4",
+        "price_level": 1,
+        "rating": 4.3,
+        "user_ratings_total": 1412
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5443 Yonge St, North York, ON M2N 5S1, Canada",
+        "name": "Angus Pho House",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110160583513531163082\">Shenjie Lin</a>"
+            ],
+            "photo_reference": "ATJ83zheVko5u6FNim0hr_-2YIeAg9Dtzc3BPBpbXCkKNLLapL0RXrGp74d5fNxMDmG8oiT5Olhqeh3LA7HICzJ1btOtawrs2C6Q5QfbzTxStiN8tSNDnAnIgYRj4e1WHS1tP2S3WRJa6CtNxu-C-gp1AKqkOrfetgEtMq84RYbycomQLDhe",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJN9tUZA0tK4gRWCvCFF3AqlU",
+        "price_level": 1,
+        "rating": 4,
+        "user_ratings_total": 693
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "3355 Steeles Ave E Unit 1, Toronto, ON M2H 3S8, Canada",
+        "name": "\u8d24\u5408\u5e84 \u81ea\u52a9\u706b\u9505 Vintage The Hotpot AYCE Toronto",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104195757488623844307\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zi8cGnm3bO8qRD1yb8pyVRIM0fShVo0awOYP5qp9cWj2tNZUapvEjbDmf3CoglA1ZBYXTV-bCzjsRUsNHEOyHuNTCJfPRLJxGUO7NRwe01U6-vTqTY5uN5Ub2fZdqWsjIf3GzSkTgDNdTCBSZtW4S2A_VbMU3zRISxpWG3QQ2LYH60r",
+            "width": 2890
+          }
+        ],
+        "place_id": "ChIJq-KQlPjT1IkR_dLFqCU9E9M",
+        "rating": 4.5,
+        "user_ratings_total": 764
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5439 Yonge St, North York, ON M2N 5S1, Canada",
+        "name": "Wing Machine",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104963951779432359657\">Hung-Ting Chen</a>"
+            ],
+            "photo_reference": "ATJ83zhUkTw_v0Ur_XB5OeDTobi3jitvbp9MAbaiNnUAYTHFW7S_Eb8peBJOxlTm9hVuWfmQYS_vnlG-57N-WbaGRRMfKemqnzDrULgVEwerKrpFY3d9yNZ1-8wZzEUT_Ar9VEINLVWzHT826iGREbvg-YMfxgz56LcbsG74I-TjQpnlLsif",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ5etaZg0tK4gRCxTRpafkCKs",
+        "price_level": 1,
+        "rating": 3.8,
+        "user_ratings_total": 148
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "8368 Woodbine Ave, Markham, ON L3R 2N8, Canada",
+        "name": "Jin's Mi-Fen (Authentic Hunan Style Rice Mifen) \u6d25\u7c73\u7c89\u9986",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109322241597548094452\">Ryan Wang</a>"
+            ],
+            "photo_reference": "ATJ83zi7Odn002NcS6FEbBKgOQ9vhl8hlZu08fMlCcnYW1yd9nQMqpjl1B1-SLDbQPIkfpXlDNQ4j1vHgQVrEZDZhL7oy5tJAeJk-AFvoB7ak8GIe9yvI9VqjR1fhMy5NJT9FhUdZsS5HM7uISJnug4ueUUwdDPMgV6Jj-E2BJcdzLnIS7fQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJK9nj-6wtK4gRHChPrX-OxqY",
+        "price_level": 1,
+        "rating": 4.1,
+        "user_ratings_total": 326
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "formatted_address": "4750 Yonge St unit 109, North York, ON M2N 6G5, Canada",
+        "name": "Golden Ricenoodle",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107687338502675366435\">Jianhua Yang</a>"
+            ],
+            "photo_reference": "ATJ83zhVv5uv85u0R00I8lGhFRPHLp5OG3lrgW8_JAwCyVgmo8h9tfbi0Q1PS1Wuzv82XjPnDL3npAR32YFVWoxZi9rq6RCFD1QJ5jc6L2oikoZdZEZn4QOAA4RN3lEoaRdByGGwtYHtV32ah8iAh4mXRmRkluRNKwv9JrLGckaBVeGkSLEG",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJ3fsueWQtK4gR0QXOPa8SB0I",
+        "rating": 3.3,
+        "user_ratings_total": 89
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "CLOSED_PERMANENTLY",
+        "formatted_address": "41 Sheppard Ave E, North York, ON M2N 2Z8, Canada",
+        "name": "Cheers Chicken & Beers",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115844954785772218014\">Shubair Hasnain</a>"
+            ],
+            "photo_reference": "ATJ83ziT6TVEnIyU1_ElRizJCi0inCo4bhymFpAFgahn7-IeB6yC33NaHKHev5DUKYS6fqpvjTjKK9Ijp4iNekxwIzT_8dHu2LlmQ_GDicdN2wUOcMJiSftdlLK7R2KhwSMRGf5iWRjXgNXMWyK6VJukngR0OeZt3HgUJ7gJXAYQ7WweXg_R",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJ_2vSGGQtK4gRTCu8Mvk8n1k",
+        "rating": 4.1,
+        "user_ratings_total": 135
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "19A Finch Ave W, North York, ON M2N 7K4, Canada",
+        "name": "Huh Ga Ne",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104673604976562204648\">RISH HPS</a>"
+            ],
+            "photo_reference": "ATJ83zhIboqbb0mcZs6qpM9sETdu5lcE1BSjm-Fli3p3F2c_YKwBVqGaAhONwzeP8GGVVliMYrOCFpJudZgqqdcsN5TDBpBxGI5pG88meN2wDY0HmM81iYemCTuX3rlqNp6-Su3efDbVn_KsuIddxStldg9k4TE8hVKGd2UvI2XioMze94j3",
+            "width": 3072
+          }
+        ],
+        "place_id": "ChIJ7UGSNwwtK4gRHuDL_7DO9v4",
+        "price_level": 1,
+        "rating": 3.7,
+        "user_ratings_total": 1514
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Canada, Ontario, North York, Northtown Way, \u90ae\u653f\u7f16\u7801: M2N 7A2",
+        "name": "Xiang Long Zhua Zhua \u964d\u9f8d\u722a\u722a(Chicken Feet King) North York",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3648,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117197106668949292390\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83ziB58oad2LEPyfiNv016OynRvHp0OuyuuGjAUjkCWrSBfLexWJJvfMv-dCb2D15cyvBdLX_NGHCAwA5Iu1M4Z8ull8qGLB8A6UU-FvepzTPw7E4bMgw3fn7Slssrn5-F7QMC4gdDdMF3wz0eAXQP2AP7SCosU4GxikziysJOgHWNUiJ",
+            "width": 5472
+          }
+        ],
+        "place_id": "ChIJgRv82ngtK4gR0hph9v7IZX4",
+        "rating": 3.2,
+        "user_ratings_total": 74
+      },
+      {
+        "business_status": "CLOSED_PERMANENTLY",
+        "formatted_address": "3250 Midland Ave Unit G116, Scarborough, ON M1V 0C7, Canada",
+        "name": "Xiang Long Zhua Zhua (SCR)",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 4912,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110684139227160084948\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zhp1fEq6nIbdgQLOaoAOWajU_lJzaEFGXlNa9G-TLP1oTx0mm8hRyrStxmdpiexpqmDiRixwOvsApXhmKCd0r9-pdLj3B1rxBWI-gX36bhd4mytRpd6yc0MqcQ_d_U59Oh4fsWzSGG0wmHmOFGvuDtzwyVCNpP8EX15lFLjflo9VBmB",
+            "width": 7360
+          }
+        ],
+        "place_id": "ChIJ8y_9AK3R1IkROxztsQNrY_0",
+        "rating": 2.7,
+        "user_ratings_total": 14
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "1177 Central Pkwy W, Mississauga, ON L5C 4P3, Canada",
+        "name": "LUCKY TEA \u5c0f\u786e\u8336",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116896647778395295487\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zhhYC_o7nIEvNgnkSguUqZcit_uhZfUg5yQEfiXwqRshRo3VrTcQcRRIKR5dApzWtpvulr3Nv056W296i8yU7Np6UPx4RAK1-27H1-cRdjSnI230zPLD590sRskbkrzIL7fVWz1vbDTQgpqK7eKZsJvi0F2hkOEvJ1f1nSnCoGyuX5M",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJS63O9tNBK4gRIyIqwpOTOQU",
+        "rating": 3.8,
+        "user_ratings_total": 69
+      },
+      {
+        "business_status": "CLOSED_PERMANENTLY",
+        "formatted_address": "5 Northtown Way #11, North York, ON M2N 7A1, Canada",
+        "name": "LUCKY TEA \u5c0f\u786e\u8336",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109342233088293452752\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zh7P7UWURd_2LVRUBd_q-tEV9cHGeRhhjsE4MPoa7RAOXSG3YT6vrgDqtmSri3beJjcvCJZgiMka368GvCT_WPVHOEkTGKxA55CVLERFj4b-DbcoD6-ng7ndXwPVJ1eVvfcJ61_uyWjxH1jXKeEg31j1ybDN3qSB-HPTpZD6XgpDyiL",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJ65I8nFUtK4gRsYjgx1IGFYQ",
+        "rating": 4,
+        "user_ratings_total": 65
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5330 Yonge St, North York, ON M2N 5P9, Canada",
+        "name": "Hot Impression",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 577,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116606616406332563360\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zguRYxHEkQ0opa8Qp19Q5bvNI94gGnTGQuhfcryTCSefsPRof8xaJc-GsLP5qH24IR_PnHPGWE3tmNoDsvV0WRGpWPFqmmoBXJubEUntwSA2laMKEDY_CuT0OPnHxJMFdq27T9e3mNOWTfad23Uiden0zUuscNtyzGfiwF1VbYDwYal",
+            "width": 772
+          }
+        ],
+        "place_id": "ChIJ_ypSgnItK4gRib9x66CGTf4",
+        "price_level": 2,
+        "rating": 3.3,
+        "user_ratings_total": 160
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5310 Yonge St, North York, ON M2N 5P9, Canada",
+        "name": "Dakgogi",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104000736849465373142\">Mark David Webster</a>"
+            ],
+            "photo_reference": "ATJ83ziUTsAs1cEWm7_I4RpcQxef-T3ZkbAn4NSNpc16yAIgWXsinTcuy_sFtBpdP-tmpiZ_a-k0WZoID5Z-3U1iToI8nmEdvP7SjqHV4PH64CUPe9vvmKACjkgnNKGj7StjGKIsAiVgJQoIhp2ffAe_MQpvMFBwzv5CQVVCKaqpzd612tK0",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJw4wWgG0tK4gRWYtdZ9DbNyk",
+        "price_level": 2,
+        "rating": 4.1,
+        "user_ratings_total": 585
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "25 Wellesley St E, Toronto, ON M4Y 2S9, Canada",
+        "name": "Dakgogi",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1440,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109147257489561233108\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zjRoifM0vJ2HYaE6pAf3EOb4-cj3oj7Dov6zGqYOjcf38EwhdYAyT0y5NfPfodDtspqY-wBsoCRiXjs7SvkfZG9IVYA9emKbdGb8-pgL-vaZakv9eIVlQLB-C-WwamnXtcKPxYH7zZwuEtWp2lqEujS4TqJPGWNZr9Lhp_XMQWZxG-6",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJ_yenH2s1K4gRagXKw_N3F3Y",
+        "price_level": 2,
+        "rating": 3.9,
+        "user_ratings_total": 372
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "1031 Irving St, San Francisco, CA 94122, United States",
+        "name": "San Tung",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2120,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109479603480436235702\">Eduardo Songco</a>"
+            ],
+            "photo_reference": "ATJ83zhEJR8gxTntJt14URErjCnEcdZ-E_D1hSZjEOXnqYZBUHAGvwYe1XffQ1ildUXl-Qs1xW-My2tRy30aTrFTa3g2lkbnx1gEAYCdienHivYeNxITfkprICVLGB7fbeRJviWrMmK0Uu5y5OtZATo6I5nQlGkmkSK3AynO3KvfQ1ZKh69j",
+            "width": 2333
+          }
+        ],
+        "place_id": "ChIJVwLhg12HhYARcIdFDox3HxM",
+        "price_level": 2,
+        "rating": 4.4,
+        "user_ratings_total": 2128
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "6800 Wisconsin Ave, Bethesda, MD 20815, United States",
+        "name": "Migo Mobile Pre Purchase Inspections",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111108358548641220917\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zgOF6hob33ccsbh_Ytg1o6Merl7J0Y8Lu7h5r70QlE8Wwop6Bc3RscBo6NZ68ujrukY58PSFWsK47OnassjAvJcrriBrW4NX0Oqzez8nYJluSpElaJpDs0IJpFOS57iYmuKLOH8E2PUEAkCUmmilhf8e1-6yi7DREZkZ0Y6k12MWstw",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJRxlZXGrJt4kRub3dOy_JBG4",
+        "rating": 5,
+        "user_ratings_total": 4
+      },
+      {
+        "business_status": "CLOSED_PERMANENTLY",
+        "formatted_address": "5351 Yonge St, North York, ON M2N 5R6, Canada",
+        "name": "I-Migo",
+        "permanently_closed": true,
+        "place_id": "ChIJN1JDVQ0tK4gRJ3gfdohRuZs",
+        "rating": 3,
+        "user_ratings_total": 4
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "CLOSED_PERMANENTLY",
+        "formatted_address": "5418 Yonge St #12, North York, ON M2N 5R8, Canada",
+        "name": "Zhang's Kitchen \u5f35\u5c0f\u53a8",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114331919870051800179\">hanako317</a>"
+            ],
+            "photo_reference": "ATJ83zghIYgvbIDL8XZkKICxRr9431r_euwdtEjvLereeFsD4DGtPbTCqHcD5z6idEEwqlubjBcKQGH_jRKt4NRhxU1bKmJ4jfByF1cOGsLoEuSEaVTzCrndvlJOp6BA9uxZpOg5d5yo_D2O_HO95sOBzdk-WrHF1olfpywm8wGfvQwVF78z",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJAQBATQ0tK4gR4LYKnpXyC6o",
+        "rating": 3.1,
+        "user_ratings_total": 29
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "1 Canada's Wonderland Drive, Maple, ON L6A 1S6, Canada",
+        "name": "Crystal Palace Arcade",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 730,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116808563084771224348\">David Boucher</a>"
+            ],
+            "photo_reference": "ATJ83zhIR5KRN4OLjWZxTUoXsnjPDdUJNQb_4GCu_7Pw0p9K0V1uUHwtzmmAoY9t9cJHTCCHwhvar7ksIx-WbK6N9HvCO6_DUlVnAMrtlllv82RNiXgFdf142Vl8C-PlFMY0OWzc5IljlLJBZDCfdcj0pP8Fig6ELJ1Gv66nVnguJuFhp7XF",
+            "width": 1440
+          }
+        ],
+        "place_id": "ChIJh2qbrUsvK4gRu-vcbSW3NIk",
+        "rating": 3.7,
+        "user_ratings_total": 36
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "28 Finch Ave W #110, North York, ON M2N 2G7, Canada",
+        "name": "Palgong Tea (Finch)",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108185179370537957763\">Janna Wong</a>"
+            ],
+            "photo_reference": "ATJ83zjBHFhDY9EvnYRzUkKdUsNrQU9dAKjDYbN6GHqfMHXM2ejbELaWUbuvHd9_0BxXemN2XtpmLEYATZC6sMWAOZoHVYGuv5Yg5z1afV05zENcLK2Sr8MStX4yb2We3m3Xz3CW9xUhlXRup5136SvbLknMtTdvTSWkJCABkU4tavp8C6FZ",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ0Vg3In8tK4gR3UcbquFvRxY",
+        "rating": 4.1,
+        "user_ratings_total": 113
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "449 Dundas St W, Toronto, ON M5T 1G8, Canada",
+        "name": "Hey Sugar | \u563f\u7cd6 Fresh Milk Tea",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100758348536763573164\">Samia Nasir</a>"
+            ],
+            "photo_reference": "ATJ83ziLWI_AsRCBKc-ugIVoHxdOY9REyW1T4wocLimx27_cLD3KFCIfrS3iMFrXuJKXRjbNbPv7VedBq_Ie5GD-Z3EsgB9CDjOHJ2eAQjWowG2e_7Jex5-F_Z3RZxZ4twyle7C4nli64RDBPD1bbhispqFRE9gQUJQwCfCfZnVYsXZ-4e1l",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJGdXJXsQ1K4gRHIbxMwQO5Bk",
+        "rating": 4.2,
+        "user_ratings_total": 138
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "No. 7\u865f, Lane 220, Wuxing St, Xinyi District, Taipei City, Taiwan 110",
+        "name": "\u6625\u967d\u8336\u4e8b\u53f0\u5317\u5317\u91ab\u5e97",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1108,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103066456551605914881\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83ziKvVsn8lPFvZAZVKXLoq2yirW4lRF8w-3nqFgf5oVs2Q1HpO6ZSwlMYHYWIGVjLrR1JBmJ88BEOeRm_pmlBX9Ig7oZJ6mrcBDcxXemGHhML3wJevz-IJcrc5Kz8EW0hiyx_8TzybRxVQTU29FcHs_9hFRX6-YOJfZqNzqQ7Tefwvjt",
+            "width": 1478
+          }
+        ],
+        "place_id": "ChIJ-ZQIJK-rQjQRYiLYdtjoFd4",
+        "price_level": 1,
+        "rating": 3.4,
+        "user_ratings_total": 145
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [],
+    "status": "ZERO_RESULTS"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "155 Yorkland Blvd, North York, ON M2J 0E9, Canada",
+        "name": "ZenQ & \u5c0f\u6843\u5712 Taiwanese Cuisine",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105034808744696719041\">Patrick Woo</a>"
+            ],
+            "photo_reference": "ATJ83zhZMTBtOijh_Bk_w7tHYM1q5wcLuw0zhdni7tJaDogHCUtMZmi28qYfv74_i4AAxyUiMK1uoFJ8CxnxNCjWru2Qth98Vx89bMyoTEr1ZVUdDddorQl-IHCk_xGfE7dSdIrLKDsNxJCQ5QWCXkcIOBTQOIt4AT6NCzl9Thd50B9K9hjP",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJE93pEhPT1IkR0KyJ__qOnAE",
+        "rating": 2.9,
+        "user_ratings_total": 57
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5437 Yonge St, Toronto, ON M2H 3N3, Canada",
+        "name": "Meet You Leisure",
+        "place_id": "ChIJq6paYQ0tK4gRP2yzmpOeTxk",
+        "rating": 0,
+        "user_ratings_total": 0
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "177 College St, Toronto, ON M5T 1P7, Canada",
+        "name": "MeeTYou Cafe",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3173,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110392591131439279843\">Wei Qu</a>"
+            ],
+            "photo_reference": "ATJ83zjwb0XwHOLOIIPzU40dEKE9JgkadK-nE5lky8cA4qK6M3rv24jB3uv2YKcYORA6kW_dCW5DbOwsnoFZ816bPAYhgq5AatAjZ6A9Ix6s7-RWXdwo9vONWj6ZcD_X7xj_n05AuAbNH07ZsB7XOwqErb-bbVhX1PmsPTbeL4dvPA1nk0pl",
+            "width": 2327
+          }
+        ],
+        "place_id": "ChIJge9Jmcc0K4gRAMBKkFBetH0",
+        "price_level": 2,
+        "rating": 3.9,
+        "user_ratings_total": 90
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "CLOSED_PERMANENTLY",
+        "formatted_address": "4188 Finch Ave E unit 7, Scarborough, ON M1V 0C4, Canada",
+        "name": "Superhot \u9ebb\u8fa3\u70eb",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100968517878823024046\">Eva Siu</a>"
+            ],
+            "photo_reference": "ATJ83zgRDHVarJMjk62UKzPjUfQpxsoaeO-C3Ev0kANnboPfM15s3orbvczEcn88OxCG_0aDH_h_bOzFxizsIxnih7Wess3voDJlir3D3qznaCZQbKIZNFqT8K-YjshRbASo0muA1gSNShnkCnE2DLlZPNmhaGcMJoGlg-88GWj4c2Qg8iWP",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJS3sl6svR1IkRdD3lWimLMTc",
+        "rating": 3.5,
+        "user_ratings_total": 41
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5287 Yonge St, North York, ON M2N 5R3, Canada",
+        "name": "43N We the north east \u70e7\u70e4\u5c4b",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114017854711234961000\">Alex Xie</a>"
+            ],
+            "photo_reference": "ATJ83zja6tSwfVh034SKLF_3h7t8KezaurRO0aubAq_VRL4H-W135NTBivjCPVtbaXO8XXe6qh7gkAHMgrHu7nzM0SVL3VBsKwzK1QbEgpD2f6b8y7qk29H9HeM9CqIawVKowmZKcRIbRoBBaBxP-A5r5PdrQ46ukyzpgt6B-XdW3GnKzqdR",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJx2Kf-4YtK4gR7jWJd28FYH4",
+        "rating": 3.5,
+        "user_ratings_total": 72
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5285 Yonge St Unit3, North York, ON M2N 5R3, Canada",
+        "name": "Yang's Braised Chicken Rice(North York)",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3036,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102189262669343385908\">jessica c.</a>"
+            ],
+            "photo_reference": "ATJ83zh6WMZviIsjkqeCUm5EIYOXXQ-TqRpFP0r0kmH8DcUcLJ3KZErs6d-7xnsCgX9dHlYKUpxCIDR-epEYJH8h2oLsJ8PedYHTvUtAgmBPACnA4SG-EanWJmbUcN66tavol6urGHHEkwDkh5CfsYJlS14QNQGg0MNim66tAcM86a2jDdHy",
+            "width": 4048
+          }
+        ],
+        "place_id": "ChIJn4y6frUtK4gRSpID4ZM0r-I",
+        "price_level": 1,
+        "rating": 4,
+        "user_ratings_total": 218
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5285 Yonge St Unit5, North York, ON M2N 5R3, Canada",
+        "name": "Yunshang Rice Noodle (North York)",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3968,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105332027141930371646\">Steven D</a>"
+            ],
+            "photo_reference": "ATJ83zj9aV6CPwOf7ud7r8rtyglTFy9EtPSttoqM9IVF_hUYTL1cpjPbGUZUinAnFu001uWNtLYEt7WmA17cqOy9vPpM8Eg_OJ9SJ7E60WngvWzytZgHGXfOC1AZ8Tuv5wOssVn_MLilX9KeJ-O5r6hGnpmKHgMY45-eqIutR6v3oNZcTPkN",
+            "width": 2976
+          }
+        ],
+        "place_id": "ChIJtwCo9CotK4gR9Fevkb8m3iU",
+        "price_level": 1,
+        "rating": 4.2,
+        "user_ratings_total": 387
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "4841 Yonge St, Toronto, ON M2N 5X2, Canada",
+        "name": "Blaze Pizza",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113204596055262364269\">maxim polyakov</a>"
+            ],
+            "photo_reference": "ATJ83zhC-eY7Z63DiPV6stRFnb5_2e5HsemfnBEtbVksnq27na_NQGXEomvpQVUrBug3t_PFmaQwSDhspq3L1SqIyUhtvEaO0fQJvpIoLTQEDrWVufWHZSKdAtbGTR89N5HgdvZ3JMEoTQ8fZxeatk5JEEnzLzwKWds_dbOmEI_00V-E99Yh",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJu9s4VbYtK4gRxQaTGO1RdmA",
+        "price_level": 1,
+        "rating": 4.4,
+        "user_ratings_total": 944
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "330 Adelaide St W, Toronto, ON M5V 1R4, Canada",
+        "name": "FLOCK rotisserie + greens",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2817,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103116205181719851336\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zg2E3lyo0pCO-9099y0kHJP0V6Syf5ZD0bl3tetllyJOvmpoLZCm7kZQQSAKM_xJU3yKq4VZVTyYUiFs7TnH-RZTdZ1IxTb81T3R51vrmSAfJJ-YNlwDFxbwkOsUoq4rCvowUaZhNuGL07woJJ4P2CWh-50XDcbMixL2FUCSaOzXsvu",
+            "width": 4192
+          }
+        ],
+        "place_id": "ChIJd5MqZNo0K4gRTfQKsDMZH-c",
+        "price_level": 2,
+        "rating": 3.7,
+        "user_ratings_total": 328
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Nearby Shopper Drug Mart, 5095 Yonge St Unit A13/B10, North York, ON M2N 6Z4, Canada",
+        "name": "Petit Potato \u5927\u6709\u540d\u7cd6",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 811,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109989782036596806208\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zhwrOFhMgBQB3RIWk2hSg5WQNP0X61nhCtDFQFOQGMrHTI7yBS6BGPdR78KnYpLQwxGvna4NewJCNsCm20iZY23PZq5DnP0CqNSK-9MLef26TXGV0HGSxGqMmdSFgM8It544r3B6UcZ7I7JWVe9SJhE2HUiZcp4ukFdZV5N6M0kKdRj",
+            "width": 1440
+          }
+        ],
+        "place_id": "ChIJX-REmr0tK4gR2fEa8EKilDU",
+        "price_level": 2,
+        "rating": 3.8,
+        "user_ratings_total": 727
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "10 Ravel Rd #1-2, North York, ON M2H 1S8, Canada",
+        "name": "Petit Potato",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116508248710897736685\">Lam Kathy</a>"
+            ],
+            "photo_reference": "ATJ83zia6ol4wpmwFkKFLUM2ekqJPzm1sBMZ1jgE2tWZT_0rzqaAyGlRRsOx31Lvc1iBUwdbPkzcVnMybE2voZ1ZE5jQppqYoBjs8dxStq1Hk15lhqRO1n6e_-UGEDMlikq9CKzvHUn9eQMmeh4Nh8gD-F1F0T6uO7VCdqPgW2mChRF8X2S6",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJsbSAZSfT1IkRrlWaCHxsyVQ",
+        "price_level": 2,
+        "rating": 3.9,
+        "user_ratings_total": 1726
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5650 Yonge St, North York, ON M2M 4G3, Canada",
+        "name": "Freshii",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 500,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112216831247915787784\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zh4iXeC5-q-uQe50VlLcW0BQyXXnYI-lvRhU5ESs4mITtYxGuwwbHjbrmYrUrHtY0OLLO5sCP4i7sETlwc66rj0nfDcPZd1HRXmATAu9im62uVLXhFkQqrgIPTAD389w_9kWx-bpc_zOxSCnLEzzfab2H2qvXoMY4kaLo9HC1stOR0o",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJvW8P1w0tK4gRozvY5QDoc9w",
+        "price_level": 2,
+        "rating": 3.8,
+        "user_ratings_total": 216
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "CLOSED_PERMANENTLY",
+        "formatted_address": "28 Finch Ave W #116, Toronto, ON M2N 2G7, Canada",
+        "name": "Yupdduk Finch",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102732954551749364029\">\ub0a8\uc758\ud604</a>"
+            ],
+            "photo_reference": "ATJ83zj6iDGsbXyqvKSijBJzkgLVmhUsFiNlEXTD42LpESwKThC4p2aK0pdmpbf12YgOpRXnuHhEFMge05bOosdDioQJf7HPkCwoIetSjwK4JH3Z07O5-Q9s-c1G_bfyOl9CVKyAigUgzlLXu4tCp4P7Y2Qix3qFTR4lmGtIYLJKykFvYJiH",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJgVHoPwwtK4gRmgxzt4xFD60",
+        "rating": 3.1,
+        "user_ratings_total": 327
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5170 Yonge St #100, North York, ON M2N 0G1, Canada",
+        "name": "Boston Pizza",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111200468463783926344\">Marcial Cuesta</a>"
+            ],
+            "photo_reference": "ATJ83ziPUCuVOzLSWtAJRvzAWc2mYhgafLr3WQB996wSXV0UOdWD1598fFAyMdL-nbgi44Qc8iLb-qjTeT0oCk9VhncD2Rfl8zEIeDAgW-QAB7OFxnZPjmh2WSJd7nEre3Gnk3WEGebH8Fp6OkFWSRwulh2Gn2ZI2kejQXrwcNa2O8zqydP7",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJLaSQZmQtK4gR3wT8XNxXlxo",
+        "price_level": 2,
+        "rating": 3.5,
+        "user_ratings_total": 1247
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5000 Yonge St, North York, ON M2N 7E9, Canada",
+        "name": "Cafe Landwer",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107239281282351604036\">Johnny</a>"
+            ],
+            "photo_reference": "ATJ83zgPqwsmB6qocXTxJLxlWoq7wW76auZk1Saw6zj-za_oIT8hVwtoEUrEVJZVvk2ILzRMzrf7xW_y3G3LOHYxyYXesseEXFrfVVpCdz2FPGkqp9m8bLSjdFyQNA7qIZ0I_XwIzKCfTRteug71DzRl81Is7IoKwDmXhCyBb0MiC6bPlOTl",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJgW-LNkctK4gRRiyrNDeepDM",
+        "price_level": 2,
+        "rating": 4.3,
+        "user_ratings_total": 2337
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5505 Yonge St, North York, ON M2N 5S3, Canada",
+        "name": "Gol's Lanzhou Noodle North York",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113331569829551180015\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83zi2hR_aGwc1kNleC4vmXZFH2IoLmlwPbP04s_UhA7QCsAAKBIQdim6kuhs4dfwbtHBENpp2PleCNSJ6QZt0p5I9Jhytq9z37ixSXp6BBSqx_HSPJCMO2T19P89eFfV5eTfLggQXAApAB1F9lQ68hqMGV-MijGfZkP85yle4p_Snz6nn",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJa2UdKGstK4gRkJXxrVppC6s",
+        "rating": 4.8,
+        "user_ratings_total": 1714
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "4864 Yonge St, North York, ON M2N 5N2, Canada",
+        "name": "The Fry",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115049279596536114463\">The Fry</a>"
+            ],
+            "photo_reference": "ATJ83zhUziME-DJy1KP_orSheMIbS5Kd5St21DbKApabVGL8pGZaCmUeyQt8-3HHUmw1cYTp9Q-Ba0C2DOD1uev445-pcW4n-jwOowXhmqp4dFeYWFZ0rxcZANlENQCl4jeTM17Ec0hOrSiNe-tQcf8iv3Z-4V08SWoGGpBOWS8IizgTPdF7",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJCzk0_2QtK4gRPs5lEaJ-k7w",
+        "price_level": 2,
+        "rating": 4,
+        "user_ratings_total": 960
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "3561 Sheppard Ave E unit 1, Scarborough, ON M1T 3K8, Canada",
+        "name": "The Fry",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105528107637210793079\">Janice Wong</a>"
+            ],
+            "photo_reference": "ATJ83zg0qPqiQHdhLEaknhMptkVDtj3RdNYFM_oevIGNzWRVFCLxP0S0k33AhkwdQOiY_hlQuQdumBCBg28ZOsml_KrjU4b6_-ZpmMJgfrOEf13Gz-wlcLvxTmlEO0w6nYH8A_CSK0fkZ5HA6-fMkog2E9T6uKORuGp4pcMdnPX_2lHvG--j",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJfWxgha_T1IkRMptxgt90-4Q",
+        "price_level": 2,
+        "rating": 4.7,
+        "user_ratings_total": 537
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "4916 Yonge St, Toronto, ON M2N 5N5, Canada",
+        "name": "Mapo Gamjatang - Korean Restaurant NorthYork | Pork Bone Soup",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111645576533034456138\">A Google User</a>"
+            ],
+            "photo_reference": "ATJ83ziee_DXjuTbQKyzhu0b0LMDdn1QXEdpfqzZ9-Qcx0skfH3_Msf8jWYyLOgX98y66Mlpx2JkSzCyzXGgsAhoj_vBS7oEdbJ6upWgI9C9ksSlLrCJwp8QFZ9NhP89879r0b4c9cDngOec4AqOj5QkkuJbC35KwHVHLekHMga-zy88l_xJ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ9dS0YWAtK4gRC1v6e8_s_DE",
+        "price_level": 2,
+        "rating": 4.3,
+        "user_ratings_total": 750
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "candidates": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "50 Industrial Rd, Richmond Hill, ON L4C 2Y1, Canada",
+        "name": "Supertech Auto Inc",
+        "place_id": "ChIJEVkHb0MqK4gRryRCRn_qmOI",
+        "rating": 4.9,
+        "user_ratings_total": 32
+      }
+    ],
+    "status": "OK"
+  }
+]

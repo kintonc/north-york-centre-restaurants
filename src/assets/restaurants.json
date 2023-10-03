@@ -1,0 +1,2756 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2023-10-03T15:29:18Z",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/226512034",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5324",
+          "addr:postcode": "M2N 5P9",
+          "addr:province": "Ontario",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "atm": "yes",
+          "building": "retail",
+          "building:levels": "2",
+          "cuisine": "korean",
+          "name": "The OWL of Minerva",
+          "opening_hours": "24/7",
+          "phone": "+1-416-221-7275"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.4143054,
+                43.7732965
+              ],
+              [
+                -79.4142886,
+                43.7732418
+              ],
+              [
+                -79.414101,
+                43.7732756
+              ],
+              [
+                -79.4140954,
+                43.7732766
+              ],
+              [
+                -79.4141108,
+                43.7733368
+              ],
+              [
+                -79.4142251,
+                43.7733161
+              ],
+              [
+                -79.4142265,
+                43.7733198
+              ],
+              [
+                -79.4142708,
+                43.7733116
+              ],
+              [
+                -79.4142677,
+                43.7733027
+              ],
+              [
+                -79.4143054,
+                43.7732965
+              ]
+            ]
+          ]
+        },
+        "id": "way/226512034"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/226512037",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5306",
+          "addr:postcode": "M2N 5P9",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "building": "retail",
+          "building:levels": "1",
+          "cuisine": "chinese;noodle",
+          "name": "HeyNoodles",
+          "name:zh": "嘿小面"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.4140024,
+                43.7728263
+              ],
+              [
+                -79.4140186,
+                43.7728736
+              ],
+              [
+                -79.4141776,
+                43.7728395
+              ],
+              [
+                -79.4141574,
+                43.7727932
+              ],
+              [
+                -79.4140024,
+                43.7728263
+              ]
+            ]
+          ]
+        },
+        "id": "way/226512037"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/226938040",
+          "amenity": "restaurant",
+          "building": "yes",
+          "building:levels": "1",
+          "cuisine": "dessert",
+          "name": "Sugar Marmalade",
+          "name:en": "Sugar Marmalade",
+          "name:zh": "糖記甜品"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.414101,
+                43.7732756
+              ],
+              [
+                -79.4142886,
+                43.7732418
+              ],
+              [
+                -79.4143336,
+                43.7732338
+              ],
+              [
+                -79.4143193,
+                43.7731777
+              ],
+              [
+                -79.4143093,
+                43.7731796
+              ],
+              [
+                -79.4140868,
+                43.7732203
+              ],
+              [
+                -79.414101,
+                43.7732756
+              ]
+            ]
+          ]
+        },
+        "id": "way/226938040"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/584781859",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5321",
+          "addr:postcode": "M2N 5R4",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "building": "retail",
+          "cuisine": "seafood;chinese",
+          "name": "Mr Fish"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.4137458,
+                43.7735517
+              ],
+              [
+                -79.4137302,
+                43.7734956
+              ],
+              [
+                -79.4135401,
+                43.7735374
+              ],
+              [
+                -79.413554,
+                43.7735933
+              ],
+              [
+                -79.4137458,
+                43.7735517
+              ]
+            ]
+          ]
+        },
+        "id": "way/584781859"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/584781861",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5317",
+          "addr:postcode": "M2N 5R4",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "building": "retail",
+          "building:levels": "2",
+          "name": "Upper East Food Club",
+          "website": "https://uppereastfood.club"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.4137302,
+                43.7734956
+              ],
+              [
+                -79.4136989,
+                43.7733833
+              ],
+              [
+                -79.4134902,
+                43.773429
+              ],
+              [
+                -79.4135145,
+                43.7735266
+              ],
+              [
+                -79.4135401,
+                43.7735374
+              ],
+              [
+                -79.4137302,
+                43.7734956
+              ]
+            ]
+          ]
+        },
+        "id": "way/584781861"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/584781862",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5315",
+          "addr:postcode": "M2N 5R4",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "brand": "Meet Fresh",
+          "brand:wikidata": "Q11172707",
+          "brand:wikipedia": "en:Meet Fresh",
+          "building": "retail",
+          "cuisine": "taiwanese",
+          "name": "Meet Fresh",
+          "phone": "+1-416-546-5139",
+          "website": "http://www.meetfreshcanada.com/east/"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.4136989,
+                43.7733833
+              ],
+              [
+                -79.4136888,
+                43.7733328
+              ],
+              [
+                -79.4134782,
+                43.7733789
+              ],
+              [
+                -79.4134902,
+                43.773429
+              ],
+              [
+                -79.4136989,
+                43.7733833
+              ]
+            ]
+          ]
+        },
+        "id": "way/584781862"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/584781863",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5313",
+          "addr:postcode": "M2N 5R4",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "building": "retail",
+          "cuisine": "seafood",
+          "name": "The Captain's Boil",
+          "phone": "+1-647-348-7808",
+          "website": "https://www.thecaptainsboil.com/"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.4136888,
+                43.7733328
+              ],
+              [
+                -79.4136774,
+                43.7732828
+              ],
+              [
+                -79.4134627,
+                43.7733304
+              ],
+              [
+                -79.4134782,
+                43.7733789
+              ],
+              [
+                -79.4136888,
+                43.7733328
+              ]
+            ]
+          ]
+        },
+        "id": "way/584781863"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/584781865",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5307",
+          "addr:postcode": "M2N 5R4",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "brand": "St. Louis Bar & Grill",
+          "brand:wikidata": "Q65567668",
+          "building": "retail",
+          "cuisine": "chicken",
+          "name": "St. Louis Bar & Grill",
+          "phone": "+1-416-226-5988",
+          "website": "https://stlouiswings.com/"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.413662,
+                43.7732315
+              ],
+              [
+                -79.4136406,
+                43.7731435
+              ],
+              [
+                -79.4136181,
+                43.7731309
+              ],
+              [
+                -79.4134366,
+                43.7731704
+              ],
+              [
+                -79.4134736,
+                43.7732733
+              ],
+              [
+                -79.413662,
+                43.7732315
+              ]
+            ]
+          ]
+        },
+        "id": "way/584781865"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/584972655",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5291",
+          "addr:postcode": "M2N 5R3",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "building": "retail",
+          "cuisine": "dessert;japanese",
+          "description": "Japanese cheesecake shop.",
+          "name": "Cheese Garden",
+          "phone": "+1-416-792-5888",
+          "website": "https://www.cheesegarden.ca/"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.4135408,
+                43.7728266
+              ],
+              [
+                -79.4135284,
+                43.7727787
+              ],
+              [
+                -79.4133479,
+                43.7728052
+              ],
+              [
+                -79.4133591,
+                43.772852
+              ],
+              [
+                -79.4135408,
+                43.7728266
+              ]
+            ]
+          ]
+        },
+        "id": "way/584972655"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/585487293",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5213",
+          "addr:postcode": "M2N 5P8",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "building": "retail",
+          "cuisine": "japanese;sushi",
+          "name": "Wako Sushi",
+          "phone": "+1-416-551-4476",
+          "website": "http://www.wakosushi.ca/"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.4130943,
+                43.7708288
+              ],
+              [
+                -79.4130812,
+                43.7707732
+              ],
+              [
+                -79.4128496,
+                43.7708241
+              ],
+              [
+                -79.412869,
+                43.7708772
+              ],
+              [
+                -79.4129182,
+                43.7708668
+              ],
+              [
+                -79.4130943,
+                43.7708288
+              ]
+            ]
+          ]
+        },
+        "id": "way/585487293"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/585487296",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5197",
+          "addr:postcode": "M2N 5P7",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "building": "retail",
+          "cuisine": "vietnamese",
+          "name": "Pho 88",
+          "phone": "+1-416-225-8899",
+          "website": "http://www.pho88yonge.ca/"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.413029,
+                43.7705434
+              ],
+              [
+                -79.4130082,
+                43.7704658
+              ],
+              [
+                -79.4127803,
+                43.7705162
+              ],
+              [
+                -79.4126882,
+                43.7705365
+              ],
+              [
+                -79.4126512,
+                43.7705447
+              ],
+              [
+                -79.4126711,
+                43.7705875
+              ],
+              [
+                -79.4127901,
+                43.7705617
+              ],
+              [
+                -79.4128042,
+                43.7705939
+              ],
+              [
+                -79.4128166,
+                43.7705914
+              ],
+              [
+                -79.413029,
+                43.7705434
+              ]
+            ]
+          ]
+        },
+        "id": "way/585487296"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/585487297",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5195",
+          "addr:postcode": "M2N 5P7",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "building": "retail",
+          "cuisine": "chinese",
+          "name": "Sichuan Ren",
+          "name:en": "Sichuan Ren",
+          "name:zh": "四川仁",
+          "phone": "+1-416-222-9888",
+          "website": "https://sichuanren.ca/"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.4130151,
+                43.7704579
+              ],
+              [
+                -79.4130005,
+                43.7704016
+              ],
+              [
+                -79.4129972,
+                43.7704023
+              ],
+              [
+                -79.4129922,
+                43.7703842
+              ],
+              [
+                -79.4128544,
+                43.7704152
+              ],
+              [
+                -79.412861,
+                43.7704308
+              ],
+              [
+                -79.4128492,
+                43.7704338
+              ],
+              [
+                -79.4128542,
+                43.7704456
+              ],
+              [
+                -79.4127985,
+                43.7704589
+              ],
+              [
+                -79.4128178,
+                43.7705029
+              ],
+              [
+                -79.4130151,
+                43.7704579
+              ]
+            ]
+          ]
+        },
+        "id": "way/585487297"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/585746059",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5165",
+          "addr:postcode": "M2N 5P5",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "building": "retail",
+          "building:levels": "1",
+          "cuisine": "japanese;ramen",
+          "name": "Kinton Ramen",
+          "phone": "+1-647-350-7887",
+          "website": "http://www.kintonramen.com/canada/"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.412816,
+                43.7697569
+              ],
+              [
+                -79.4128112,
+                43.7697579
+              ],
+              [
+                -79.4127354,
+                43.7697736
+              ],
+              [
+                -79.4126413,
+                43.769793
+              ],
+              [
+                -79.4126586,
+                43.7698391
+              ],
+              [
+                -79.412828,
+                43.769803
+              ],
+              [
+                -79.412816,
+                43.7697569
+              ]
+            ]
+          ]
+        },
+        "id": "way/585746059"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/585746061",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5171",
+          "addr:postcode": "M2N 5P5",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "building": "retail",
+          "cuisine": "shawarma",
+          "name": "Shawarma Max",
+          "phone": "+1-647-351-7629"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.4128408,
+                43.7698632
+              ],
+              [
+                -79.4126523,
+                43.7699039
+              ],
+              [
+                -79.4126756,
+                43.7699681
+              ],
+              [
+                -79.412856,
+                43.7699274
+              ],
+              [
+                -79.4128408,
+                43.7698632
+              ]
+            ]
+          ]
+        },
+        "id": "way/585746061"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/586404345",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5175",
+          "addr:postcode": "M2N 5P5",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "building": "retail",
+          "cuisine": "korean",
+          "name": "Crazy Don"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.4126756,
+                43.7699681
+              ],
+              [
+                -79.4126828,
+                43.769985
+              ],
+              [
+                -79.4126252,
+                43.7699967
+              ],
+              [
+                -79.4126558,
+                43.7700743
+              ],
+              [
+                -79.4128809,
+                43.7700231
+              ],
+              [
+                -79.412856,
+                43.7699274
+              ],
+              [
+                -79.4126756,
+                43.7699681
+              ]
+            ]
+          ]
+        },
+        "id": "way/586404345"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/602160166",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5505",
+          "addr:postcode": "M2N 5S3",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "brand": "Wild Wing",
+          "brand:wikidata": "Q8000869",
+          "brand:wikipedia": "en:Wild Wing Restaurants",
+          "building": "retail",
+          "cuisine": "chicken",
+          "name": "Wild Wing",
+          "outdoor_seating": "yes"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.4147354,
+                43.7780448
+              ],
+              [
+                -79.4147635,
+                43.7781549
+              ],
+              [
+                -79.4148848,
+                43.7781399
+              ],
+              [
+                -79.4148576,
+                43.7780299
+              ],
+              [
+                -79.4147354,
+                43.7780448
+              ]
+            ]
+          ]
+        },
+        "id": "way/602160166"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/660624565",
+          "amenity": "restaurant",
+          "brand": "The Keg",
+          "brand:wikidata": "Q7744066",
+          "brand:wikipedia": "en:The Keg",
+          "building": "retail",
+          "building:levels": "2",
+          "cuisine": "steak_house",
+          "name": "The Keg"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -79.4116289,
+                43.7665494
+              ],
+              [
+                -79.4116874,
+                43.7665376
+              ],
+              [
+                -79.4118439,
+                43.7665062
+              ],
+              [
+                -79.4118866,
+                43.7664976
+              ],
+              [
+                -79.4118814,
+                43.7664845
+              ],
+              [
+                -79.4118761,
+                43.7664715
+              ],
+              [
+                -79.4119362,
+                43.7664609
+              ],
+              [
+                -79.411882,
+                43.7662985
+              ],
+              [
+                -79.4115569,
+                43.7663705
+              ],
+              [
+                -79.4114785,
+                43.7663872
+              ],
+              [
+                -79.4115092,
+                43.7664547
+              ],
+              [
+                -79.4115846,
+                43.7664394
+              ],
+              [
+                -79.4116289,
+                43.7665494
+              ]
+            ]
+          ]
+        },
+        "id": "way/660624565"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/540283022",
+          "amenity": "restaurant",
+          "cuisine": "sushi",
+          "name": "Michi Sushi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4003626,
+            43.7650997
+          ]
+        },
+        "id": "node/540283022"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/540283023",
+          "amenity": "restaurant",
+          "name": "Paisano's"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4001598,
+            43.7646159
+          ]
+        },
+        "id": "node/540283023"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/560652229",
+          "amenity": "restaurant",
+          "name": "Trio 3",
+          "operator": "Novotel",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.414216,
+            43.7688128
+          ]
+        },
+        "id": "node/560652229"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/607996335",
+          "amenity": "restaurant",
+          "cuisine": "diner",
+          "name": "Wimpy's"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.3988515,
+            43.7639544
+          ]
+        },
+        "id": "node/607996335"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/927208233",
+          "amenity": "restaurant",
+          "name": "Shoeless Joe's"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4092178,
+            43.7616449
+          ]
+        },
+        "id": "node/927208233"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1125195977",
+          "amenity": "restaurant",
+          "cuisine": "italian",
+          "name": "Armando's Authentic Italian Cuisine"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4116255,
+            43.7628999
+          ]
+        },
+        "id": "node/1125195977"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1125202810",
+          "amenity": "restaurant",
+          "name": "Moxie's"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.412275,
+            43.764853
+          ]
+        },
+        "id": "node/1125202810"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1125366418",
+          "amenity": "restaurant",
+          "level": "0",
+          "name": "Cafe Palma"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4136639,
+            43.7685382
+          ]
+        },
+        "id": "node/1125366418"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1125621668",
+          "amenity": "restaurant",
+          "cuisine": "sushi",
+          "name": "Sushi One"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4120288,
+            43.7644121
+          ]
+        },
+        "id": "node/1125621668"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1125622044",
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "name": "Tandoori House Indian Cuisine"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4115923,
+            43.7628093
+          ]
+        },
+        "id": "node/1125622044"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1125622404",
+          "amenity": "restaurant",
+          "cuisine": "korean",
+          "name": "Lee Namjang Korean Restaurant"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4114628,
+            43.7625054
+          ]
+        },
+        "id": "node/1125622404"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1208812337",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5221",
+          "addr:postcode": "M2N 5P8",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "capacity": "140",
+          "name": "Evivva Restaurant Breakfast & Lunch",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4130989,
+            43.7711954
+          ]
+        },
+        "id": "node/1208812337"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2356787666",
+          "amenity": "restaurant",
+          "cuisine": "korean",
+          "name": "Oh Geul Boh Geul Korean Restaurant",
+          "name:ko": "오글보글 大眾食事"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4141115,
+            43.7731802
+          ]
+        },
+        "id": "node/2356787666"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2547446719",
+          "amenity": "restaurant",
+          "name": "Select Sandwich"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4159913,
+            43.7831536
+          ]
+        },
+        "id": "node/2547446719"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2559465210",
+          "amenity": "restaurant",
+          "brand": "Eggsmart",
+          "brand:wikidata": "Q113001388",
+          "cuisine": "breakfast",
+          "delivery": "no",
+          "name": "Eggsmart",
+          "opening_hours": "closed",
+          "outdoor_seating": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.40999,
+            43.7589221
+          ]
+        },
+        "id": "node/2559465210"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2620450869",
+          "addr:city": "North York",
+          "addr:housenumber": "5460",
+          "addr:postcode": "M2N 6K7",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "japanese;korean",
+          "name": "Kayagum",
+          "opening_hours": "24/7",
+          "outdoor_seating": "no",
+          "takeaway": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4152,
+            43.7774096
+          ]
+        },
+        "id": "node/2620450869"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2783650762",
+          "amenity": "restaurant",
+          "name": "Piazza Manna"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4165291,
+            43.7804338
+          ]
+        },
+        "id": "node/2783650762"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2798905801",
+          "amenity": "restaurant",
+          "name": "JungSooNae"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4168165,
+            43.7833436
+          ]
+        },
+        "id": "node/2798905801"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4352919351",
+          "amenity": "restaurant",
+          "cuisine": "japanese",
+          "name": "Kenzo",
+          "opening_hours": "Mo-Su 11:00-22:00",
+          "phone": "+1-647-345-1871",
+          "stars": "6.2",
+          "stars:system": "10 star rating",
+          "website": "http://www.kenzoramen.ca/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4115339,
+            43.7627418
+          ]
+        },
+        "id": "node/4352919351"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4635858291",
+          "addr:city": "North York",
+          "addr:housenumber": "5533",
+          "addr:postcode": "M2N 5S2",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "pho",
+          "name": "Pho Vietnamese Delight"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4149416,
+            43.7785661
+          ]
+        },
+        "id": "node/4635858291"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4635858295",
+          "addr:city": "North York",
+          "addr:housenumber": "5467",
+          "addr:postcode": "M2N 5S1",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "barbecue",
+          "name": "Oh! Bar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4147523,
+            43.7777722
+          ]
+        },
+        "id": "node/4635858295"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4691428159",
+          "addr:city": "Toronto",
+          "addr:housenumber": "4704",
+          "addr:postcode": "M2N 5M4",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "capacity": "30",
+          "cuisine": "thai",
+          "delivery": "no",
+          "name": "EAT BKK Thai Kitchen",
+          "outdoor_seating": "no",
+          "takeaway": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4107241,
+            43.7592544
+          ]
+        },
+        "id": "node/4691428159"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4691468384",
+          "addr:city": "North York",
+          "addr:housenumber": "4775",
+          "addr:postcode": "M2N 5M5",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "japanese",
+          "name": "Kinka Izakaya",
+          "outdoor_seating": "yes",
+          "takeaway": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4097497,
+            43.760435
+          ]
+        },
+        "id": "node/4691468384"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5345553365",
+          "addr:city": "North York",
+          "addr:housenumber": "4664",
+          "addr:postcode": "M2N 5M1",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "delivery": "yes",
+          "description": "#RyersonGEO441",
+          "name": "Spicy & Delicious",
+          "opening_hours": "Mo-Su 12:00-22:00",
+          "outdoor_seating": "no",
+          "phone": "+1-416-590-1315",
+          "takeaway": "yes",
+          "website": "https://shuxiang4664yonge.com"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4103887,
+            43.7579221
+          ]
+        },
+        "id": "node/5345553365"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5345553366",
+          "addr:city": "North York",
+          "addr:housenumber": "4664",
+          "addr:postcode": "M2N 5M1",
+          "addr:province": "Ontario",
+          "addr:street": "Yonge Street",
+          "addr:unit": "21",
+          "amenity": "restaurant",
+          "cuisine": "vietnamese",
+          "delivery": "yes",
+          "email": "Pho.ok.yonge@gmail.com",
+          "name": "Pho OK",
+          "opening_hours": "Mo-Sa 11:00-22:00",
+          "outdoor_seating": "no",
+          "phone": "+1 416 222 2668",
+          "smoking": "outside",
+          "takeaway": "yes",
+          "website": "https://phook.ca/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4104436,
+            43.7580043
+          ]
+        },
+        "id": "node/5345553366"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5345553367",
+          "addr:city": "North York",
+          "addr:housenumber": "4664",
+          "addr:postcode": "M2N 5M1",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "lounge;korean;bar",
+          "description": "#RyersonGEO441",
+          "name": "4AM Bar & Lounge",
+          "outdoor_seating": "no",
+          "phone": "+1-416-901-4084",
+          "smoking": "outside"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4104355,
+            43.7578824
+          ]
+        },
+        "id": "node/5345553367"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5368912118",
+          "amenity": "restaurant",
+          "cuisine": "japanese",
+          "name": "Gangnam Sushi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.3991578,
+            43.7638885
+          ]
+        },
+        "id": "node/5368912118"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5368912119",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Spring Chicken House"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.3992211,
+            43.7638752
+          ]
+        },
+        "id": "node/5368912119"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5549157656",
+          "addr:city": "Toronto",
+          "addr:housenumber": "13",
+          "addr:postcode": "M2N 5R7",
+          "addr:street": "Byng Avenue",
+          "amenity": "restaurant",
+          "cuisine": "japanese;ramen",
+          "name": "Sansotei Ramen",
+          "opening_hours": "Mo-Th 11:30-22:30; Fr,Sa 11:30-24:00; Su 11:30-22:30",
+          "outdoor_seating": "no",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "phone": "+1-416-901-1160",
+          "smoking": "no",
+          "website": "https://www.sansotei.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.414018,
+            43.7766188
+          ]
+        },
+        "id": "node/5549157656"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5549157657",
+          "addr:city": "Toronto",
+          "addr:housenumber": "9",
+          "addr:postcode": "M2N 0E6",
+          "addr:street": "Byng Avenue",
+          "amenity": "restaurant",
+          "cuisine": "japanese;sushi",
+          "name": "VIPS Sushi",
+          "opening_hours": "Mo-Sa 11:00-23:00; Su 15:00-22:00",
+          "outdoor_seating": "no",
+          "phone": "+1-647-637-0821"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4141366,
+            43.7765971
+          ]
+        },
+        "id": "node/5549157657"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5549157658",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5",
+          "addr:street": "Byng Avenue",
+          "amenity": "restaurant",
+          "cuisine": "japanese",
+          "name": "Authentic Japanese Food",
+          "opening_hours": "We-Mo 12:00-23:00",
+          "outdoor_seating": "no",
+          "smoking": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4141844,
+            43.776587
+          ]
+        },
+        "id": "node/5549157658"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5549157660",
+          "addr:city": "Toronto",
+          "addr:housenumber": "3",
+          "addr:street": "Byng Avenue",
+          "amenity": "restaurant",
+          "cuisine": "pizza;iranian",
+          "name": "Pizza Shab",
+          "outdoor_seating": "no",
+          "phone": "+1-647-477-7288",
+          "website": "https://pizzashab.ca/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4142685,
+            43.7765685
+          ]
+        },
+        "id": "node/5549157660"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5549157661",
+          "addr:city": "Toronto",
+          "addr:housenumber": "1",
+          "addr:postcode": "M2N 5R6",
+          "addr:street": "Byng Avenue",
+          "amenity": "restaurant",
+          "cuisine": "chinese;shanghainese",
+          "name": "Sang-Ji Fried Bao",
+          "name:en": "Sang-Ji Fried Bao",
+          "name:zh": "生煎包"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4143129,
+            43.7765583
+          ]
+        },
+        "id": "node/5549157661"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5549157662",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5433",
+          "addr:postcode": "M2N 5R6",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "american",
+          "name": "North Stars Bar and Grill",
+          "outdoor_seating": "yes",
+          "phone": "+1-416-596-5595",
+          "smoking": "no",
+          "website": "https://www.northstarsbar.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4143899,
+            43.7765322
+          ]
+        },
+        "id": "node/5549157662"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5593236119",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5229",
+          "addr:postcode": "M2N 5P8",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "japanese;ramen",
+          "name": "Ajisen Ramen",
+          "phone": "+1-416-223-0618",
+          "website": "http://www.ajisen.ca/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4131813,
+            43.7714378
+          ]
+        },
+        "id": "node/5593236119"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5594977293",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5193",
+          "addr:postcode": "M2N 5P7",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "taiwanese;bubble_tea",
+          "name": "Tea Shop 168",
+          "phone": "+1-416-224-9168",
+          "website": "http://www.teashop168.ca"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.412938,
+            43.7703242
+          ]
+        },
+        "id": "node/5594977293"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5607825538",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5095",
+          "addr:postcode": "M2N 6Z4",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "hotpot;szechuan",
+          "name": "Morals Village",
+          "start_date": "2018/06/01"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4125078,
+            43.7691164
+          ]
+        },
+        "id": "node/5607825538"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5693900420",
+          "amenity": "restaurant",
+          "cuisine": "dessert;coffee_shop",
+          "name": "Pastel Creperie",
+          "opening_hours": "Su-Th 12:00-23:00; Fr,Sa 12:00-24:00"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4143751,
+            43.7762778
+          ]
+        },
+        "id": "node/5693900420"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5693903124",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5371",
+          "addr:postcode": "M2N 5R6",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Cheng Du Taste",
+          "name:en": "Cheng Du Taste",
+          "name:zh": "成都鸳鸯抄手"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4142655,
+            43.7758619
+          ]
+        },
+        "id": "node/5693903124"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5693903125",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Beijing Restaurant"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4142505,
+            43.7758202
+          ]
+        },
+        "id": "node/5693903125"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5700766641",
+          "amenity": "restaurant",
+          "cuisine": "dessert;chinese",
+          "name": "Miss Durian"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.414054,
+            43.7749256
+          ]
+        },
+        "id": "node/5700766641"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5700766642",
+          "amenity": "restaurant",
+          "cuisine": "korean",
+          "name": "Go Topoki"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4140639,
+            43.7749685
+          ]
+        },
+        "id": "node/5700766642"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5700766643",
+          "amenity": "restaurant",
+          "cuisine": "korean",
+          "name": "Roll.com"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4140859,
+            43.7751322
+          ]
+        },
+        "id": "node/5700766643"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5703323662",
+          "amenity": "restaurant",
+          "cuisine": "korean;barbecue",
+          "name": "SSAM Toronto Korean BBQ & Grill"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4158258,
+            43.7795213
+          ]
+        },
+        "id": "node/5703323662"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5703323689",
+          "amenity": "restaurant",
+          "cuisine": "korean",
+          "name": "Nak Won Korean Restaurant"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4157746,
+            43.7794232
+          ]
+        },
+        "id": "node/5703323689"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5703323690",
+          "amenity": "restaurant",
+          "cuisine": "korean",
+          "name": "Pyong Won House"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4157605,
+            43.7793614
+          ]
+        },
+        "id": "node/5703323690"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5703323691",
+          "amenity": "restaurant",
+          "cuisine": "bubble_tea;dessert",
+          "name": "Cafe Princess"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4158995,
+            43.7793353
+          ]
+        },
+        "id": "node/5703323691"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5706236060",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Simple Way",
+          "name:en": "Simple Way",
+          "name:zh": "简味"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4154753,
+            43.778296
+          ]
+        },
+        "id": "node/5706236060"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5720605311",
+          "amenity": "restaurant",
+          "cuisine": "vietnamese",
+          "name": "Vietnamese Delight"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4149529,
+            43.77855
+          ]
+        },
+        "id": "node/5720605311"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5720605313",
+          "amenity": "restaurant",
+          "cuisine": "korean",
+          "name": "Lim Ga Ne Korean Restaurant"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4149588,
+            43.7784701
+          ]
+        },
+        "id": "node/5720605313"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5720605314",
+          "amenity": "restaurant",
+          "cuisine": "chicken;fried_chicken;taiwanese",
+          "name": "Hot-Star Fried Chicken"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4149469,
+            43.7784401
+          ]
+        },
+        "id": "node/5720605314"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5720605315",
+          "amenity": "restaurant",
+          "cuisine": "barbecue;korean",
+          "name": "Ling BBQ"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4149351,
+            43.7784087
+          ]
+        },
+        "id": "node/5720605315"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5721283755",
+          "amenity": "restaurant",
+          "cuisine": "japanese;noodle",
+          "name": "MeNami"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4147941,
+            43.7778408
+          ]
+        },
+        "id": "node/5721283755"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5721283758",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5364",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "chinese;hunan",
+          "name": "Tasty Hut",
+          "name:en": "Tasty Hut",
+          "name:zh": "玉樓東"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4147615,
+            43.777676
+          ]
+        },
+        "id": "node/5721283758"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5721283759",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5461",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "szechuan;chinese",
+          "name": "Yu Szechuan Cuisine"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4147474,
+            43.7776228
+          ]
+        },
+        "id": "node/5721283759"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5721283764",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5455",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "taiwanese;bubble_tea",
+          "name": "Mabu Station",
+          "name:en": "Mabu Station",
+          "name:zh": "麻布小馆"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4146962,
+            43.7774738
+          ]
+        },
+        "id": "node/5721283764"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5721283765",
+          "amenity": "restaurant",
+          "cuisine": "chinese;noodle",
+          "name": "Magic Noodle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4146827,
+            43.7773861
+          ]
+        },
+        "id": "node/5721283765"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5721283767",
+          "amenity": "restaurant",
+          "cuisine": "korean;chinese",
+          "name": "Korean Chinese Restaurant"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4146686,
+            43.7773318
+          ]
+        },
+        "id": "node/5721283767"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5721283773",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5445",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "korean",
+          "name": "Buk Chang Dong Soon Tofu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4146237,
+            43.777125
+          ]
+        },
+        "id": "node/5721283773"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5721283775",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5443",
+          "addr:postcode": "M2N 5S1",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "vietnamese;noodle",
+          "name": "Angus Pho House"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4146163,
+            43.7770598
+          ]
+        },
+        "id": "node/5721283775"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5721283778",
+          "amenity": "restaurant",
+          "cuisine": "chinese;hotpot",
+          "name": "Hot Pot on Yonge"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4145876,
+            43.7770077
+          ]
+        },
+        "id": "node/5721283778"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5721283779",
+          "amenity": "restaurant",
+          "cuisine": "wings;regional;pizza",
+          "name": "Wing Machine"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4145709,
+            43.7769477
+          ]
+        },
+        "id": "node/5721283779"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5737618059",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5515",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "chinese;rice_noodle",
+          "name": "Jin's Mi-Fen",
+          "name:en": "Jin's Mi-Fen",
+          "name:zh": "津米粉馆"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.414912,
+            43.7783054
+          ]
+        },
+        "id": "node/5737618059"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5790583407",
+          "addr:city": "Toronto",
+          "addr:housenumber": "4750",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "noodle;chinese",
+          "name": "Golden Rice Noodle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4109406,
+            43.7601989
+          ]
+        },
+        "id": "node/5790583407"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5986863968",
+          "addr:city": "North York",
+          "addr:housenumber": "19",
+          "addr:postcode": "M2N 7K4",
+          "addr:street": "Finch Avenue West",
+          "addr:unit": "C",
+          "amenity": "restaurant",
+          "cuisine": "chicken;fried_chicken;fries",
+          "name": "Cheers Chicken & Beers",
+          "opening_hours": "Mo-Su 16:00-00:30"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4174109,
+            43.7791284
+          ]
+        },
+        "id": "node/5986863968"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5986863971",
+          "addr:city": "North York",
+          "addr:housenumber": "19",
+          "addr:postcode": "M2N 7K4",
+          "addr:street": "Finch Avenue West",
+          "amenity": "restaurant",
+          "cuisine": "korean",
+          "delivery": "yes",
+          "name": "Huh Ga Ne",
+          "opening_hours": "24/7"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4172641,
+            43.779179
+          ]
+        },
+        "id": "node/5986863971"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6095831137",
+          "addr:city": "Toronto",
+          "addr:housenumber": "15",
+          "addr:street": "Northtown Way",
+          "addr:unit": "20",
+          "amenity": "restaurant",
+          "cuisine": "chinese;chicken",
+          "name": "XiangLongZhuaZhua",
+          "name:zh": "降龙爪爪"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4133731,
+            43.7752653
+          ]
+        },
+        "id": "node/6095831137"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6095831138",
+          "addr:city": "Toronto",
+          "addr:housenumber": "15",
+          "addr:street": "Northtown Way",
+          "addr:unit": "11",
+          "amenity": "restaurant",
+          "cuisine": "bubble_tea",
+          "name": "Lucky Tea",
+          "name:zh": "小确茶"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4139841,
+            43.7751539
+          ]
+        },
+        "id": "node/6095831138"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6164966724",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Hot Impression"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4142502,
+            43.7733739
+          ]
+        },
+        "id": "node/6164966724"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6164966727",
+          "amenity": "restaurant",
+          "cuisine": "korean",
+          "name": "DakGoGi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4140716,
+            43.7729666
+          ]
+        },
+        "id": "node/6164966727"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6164966728",
+          "amenity": "restaurant",
+          "cuisine": "chinese;shandong",
+          "name": "San Tong",
+          "name:zh": "小山东"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4140504,
+            43.772902
+          ]
+        },
+        "id": "node/6164966728"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6177369808",
+          "amenity": "restaurant",
+          "cuisine": "japanese",
+          "name": "i-migo"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4146915,
+            43.7753884
+          ]
+        },
+        "id": "node/6177369808"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6177369812",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Zhang's Kitchen 张小厨"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4147137,
+            43.7754924
+          ]
+        },
+        "id": "node/6177369812"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6177369818",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5418",
+          "addr:street": "Yonge Street",
+          "addr:unit": "20",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Crystal Palace"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4147639,
+            43.7756962
+          ]
+        },
+        "id": "node/6177369818"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6177369819",
+          "amenity": "restaurant",
+          "cuisine": "bubble_tea;korean",
+          "name": "Palgong Tea"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4147734,
+            43.7757422
+          ]
+        },
+        "id": "node/6177369819"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6239116967",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5379",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "bubble_tea",
+          "name": "Hey Sugar | 嘿糖",
+          "outdoor_seating": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4143156,
+            43.7759884
+          ]
+        },
+        "id": "node/6239116967"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6239116968",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5377",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "tea",
+          "name": "春 Chun Yang Taiwan Black Tea",
+          "outdoor_seating": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4143057,
+            43.775949
+          ]
+        },
+        "id": "node/6239116968"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6258923575",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Chinese Burger 肉来谟",
+          "outdoor_seating": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4131828,
+            43.7753348
+          ]
+        },
+        "id": "node/6258923575"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6368102996",
+          "amenity": "restaurant",
+          "cuisine": "taiwanese;bubble_tea",
+          "name": "ZenQ"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4144275,
+            43.7768257
+          ]
+        },
+        "id": "node/6368102996"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6368102997",
+          "amenity": "restaurant",
+          "cuisine": "hong_kong",
+          "name": "Meet You"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4144472,
+            43.7769034
+          ]
+        },
+        "id": "node/6368102997"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6621643591",
+          "amenity": "restaurant",
+          "cuisine": "hotpot",
+          "name": "Superhot"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4142719,
+            43.7735866
+          ]
+        },
+        "id": "node/6621643591"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6621660671",
+          "addr:housenumber": "5287",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "chinese;barbecue",
+          "name": "43° N BBQ Bar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4134541,
+            43.7726458
+          ]
+        },
+        "id": "node/6621660671"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6621660672",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Yang's Braised Chicken Rice",
+          "name:en": "Yang's Braised Chicken Rice",
+          "name:zh": "杨铭宇黄焖鸡米饭"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4133847,
+            43.7725985
+          ]
+        },
+        "id": "node/6621660672"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6621660673",
+          "addr:city": "Toronto",
+          "addr:housenumber": "5285",
+          "addr:postcode": "M2N 5R3",
+          "addr:province": "ON",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "brand": "Yunshang Rice Noodle",
+          "brand:wikidata": "Q109381268",
+          "cuisine": "noodle",
+          "name": "Yunshang Rice Noodle",
+          "name:en": "Yunshang Rice Noodle",
+          "name:zh": "云尚过桥米线",
+          "name:zh-Hans": "云尚过桥米线",
+          "name:zh-Hant": "雲尚過橋米綫"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.413338,
+            43.7724975
+          ]
+        },
+        "id": "node/6621660673"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6680640251",
+          "amenity": "restaurant",
+          "brand": "Blaze Pizza",
+          "brand:wikidata": "Q23016666",
+          "brand:wikipedia": "en:Blaze Pizza",
+          "cuisine": "pizza",
+          "level": "0",
+          "name": "Blaze Pizza"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4107904,
+            43.7623328
+          ]
+        },
+        "id": "node/6680640251"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6680640255",
+          "amenity": "restaurant",
+          "cuisine": "chicken",
+          "level": "0",
+          "name": "Flock Rotisserie + Greens"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4108453,
+            43.7628646
+          ]
+        },
+        "id": "node/6680640255"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6680642267",
+          "amenity": "restaurant",
+          "cuisine": "japanese",
+          "level": "0",
+          "name": "Petit Potato"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4123312,
+            43.7682517
+          ]
+        },
+        "id": "node/6680642267"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6680697695",
+          "amenity": "restaurant",
+          "brand": "Freshii",
+          "brand:wikidata": "Q5503051",
+          "brand:wikipedia": "en:Freshii",
+          "cuisine": "salad",
+          "name": "Freshii"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4104625,
+            43.7630754
+          ]
+        },
+        "id": "node/6680697695"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8287784263",
+          "addr:housenumber": "116",
+          "addr:street": "Finch Avenue West",
+          "addr:unit": "28",
+          "amenity": "restaurant",
+          "cuisine": "korean",
+          "name": "Yupdduk Finch",
+          "phone": "+1-416-225-5353",
+          "website": "https://yupdduk.ca/",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.418285,
+            43.7794067
+          ]
+        },
+        "id": "node/8287784263"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9139972215",
+          "amenity": "restaurant",
+          "brand": "Boston Pizza",
+          "brand:wikidata": "Q894578",
+          "brand:wikipedia": "en:Boston Pizza",
+          "cuisine": "pizza",
+          "name": "Boston Pizza",
+          "opening_hours": "Mo-Th 11:00-22:00; Fr 11:00-24:00; Sa 11:00-24:00; Su 11:00-22:00"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4133983,
+            43.7699643
+          ]
+        },
+        "id": "node/9139972215"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9233947770",
+          "amenity": "restaurant",
+          "name": "Cafe Landwer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4124604,
+            43.7662778
+          ]
+        },
+        "id": "node/9233947770"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9233962387",
+          "amenity": "restaurant",
+          "cuisine": "chinese",
+          "name": "Gol’s Lanzhou Noodle"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4148514,
+            43.7780982
+          ]
+        },
+        "id": "node/9233962387"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9234350461",
+          "addr:city": "Toronto",
+          "addr:housenumber": "4864",
+          "addr:postcode": "M2N 5N2",
+          "addr:province": "Ontario",
+          "addr:street": "Yonge Street",
+          "amenity": "restaurant",
+          "cuisine": "korean;fried_chicken",
+          "email": "Lee@thefry.ca",
+          "name": "The Fry - Sheppard",
+          "opening_hours": "Su-Th 15:00-02:00; Fr-Sa 15:00-01:30",
+          "phone": "+1 416-546-6159",
+          "start_date": "2013",
+          "website": "https://thefry.ca/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4115452,
+            43.7629563
+          ]
+        },
+        "id": "node/9234350461"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9797531817",
+          "amenity": "restaurant",
+          "name": "Mapo Gamjatang",
+          "name:ko": "마포감자탕"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4119896,
+            43.7641928
+          ]
+        },
+        "id": "node/9797531817"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10783353560",
+          "amenity": "restaurant",
+          "name": "Supertech"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.4156391,
+            43.7812796
+          ]
+        },
+        "id": "node/10783353560"
+      }
+    ]
+  }

@@ -1,0 +1,40 @@
+.restaurantFrame {
+  background-color: antiquewhite;
+  border-radius: 10px;
+  width: 300px;
+  text-align: center;
+}
+
+.app {
+  display:flex;
+}
+
+.restaurantImage {
+  display: block;
+  max-width:300px;
+  max-height:300px;
+  width: auto;
+  height: auto;
+}
+
+.restaurantImageDiv {
+  height: 300px;
+  display:flex;
+}
+
+.restaurantNameDiv {
+  height: 100px;
+  display:flex;
+}
+
+.restaurantName {
+  color: black !important;
+}
+
+.fontSize12 {
+  font-size:16px;
+}
+
+.restaurantInfoDiv {
+  margin: 1rem;
+}
