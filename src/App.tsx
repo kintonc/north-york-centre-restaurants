@@ -72,7 +72,7 @@ function App() {
           {
             <img
               className="restaurantImage align-items-center mx-auto"
-              src={"../public/gmaps_photos/" + imageLink}
+              src={"/gmaps_photos/" + imageLink}
             ></img>
           }
         </div>
